@@ -6,7 +6,7 @@
       { "key": "A", "text": "Neuroquímica" },
       { "key": "B", "text": "Farmacodinámica" },
       { "key": "C", "text": "Psicofarmacología" },
-      { "key": "D", "text": "Psicobiología sistémica" }
+      { "key": "D", "text": "Neurobiología sistémica" }
     ],
     "correctAnswerKey": "C",
     "difficulty": "1",
@@ -23,7 +23,7 @@
     ],
     "correctAnswerKey": "B",
     "difficulty": "1",
-    "explanation": "La década de 1950 se considera la 'época de oro' o el inicio de la psicofarmacología moderna gracias al descubrimiento accidental de la clorpromazina y los primeros antidepresivos."
+    "explanation": "La década de 1950 marcó un hito con el descubrimiento de la clorpromazina (antipsicótico) y la iproniazida (antidepresivo), dando inicio a la era moderna."
   },
   {
     "id": 3,
@@ -32,37 +32,37 @@
       { "key": "A", "text": "Farmacológicos" },
       { "key": "B", "text": "Sociales" },
       { "key": "C", "text": "Neurológicos" },
-      { "key": "D", "text": "Genéticos" }
+      { "key": "D", "text": "Sistémicos" }
     ],
     "correctAnswerKey": "B",
     "difficulty": "1",
-    "explanation": "El modelo Bio-Psico-Social propone que la salud y la enfermedad son el resultado de la compleja interacción de estos tres pilares: biológico, psicológico y el entorno social."
+    "explanation": "El modelo biopsicosocial integra la biología del individuo, su psicología personal y el contexto social o ambiental en el que vive."
   },
   {
     "id": 4,
-    "text": "[Tipo: Análisis] El modelo que sugiere que las personas tienen diferentes grados de vulnerabilidad (diátesis) a desarrollar trastornos mentales, y que factores estresantes los desencadenan, es el:",
+    "text": "[Tipo: Análisis] El modelo que sugiere que las personas tienen diferentes grados de vulnerabilidad a desarrollar trastornos mentales ante factores estresantes es el:",
     "options": [
       { "key": "A", "text": "Modelo Psicoanalítico" },
       { "key": "B", "text": "Modelo Biomédico" },
       { "key": "C", "text": "Modelo Diátesis-Estrés" },
-      { "key": "D", "text": "Modelo Cognitivo-Conductual" }
+      { "key": "D", "text": "Modelo Cognitivo" }
     ],
     "correctAnswerKey": "C",
     "difficulty": "2",
-    "explanation": "El modelo Diátesis-Estrés explica que la predisposición genética (diátesis) no es suficiente por sí sola; requiere de un disparador ambiental (estrés) para que el trastorno se manifieste."
+    "explanation": "La 'diátesis' es la vulnerabilidad orgánica/genética que, al sumarse a un evento de 'estrés' ambiental, desencadena la patología."
   },
   {
     "id": 5,
-    "text": "[Tipo: Análisis] ¿Qué tipo de tratamiento ha demostrado ser efectivo en muchos casos de trastornos mentales graves, según las fuentes?",
+    "text": "[Tipo: Análisis] ¿Qué tipo de tratamiento ha demostrado ser más efectivo en trastornos mentales graves según la evidencia actual?",
     "options": [
       { "key": "A", "text": "Psicoterapia exclusiva" },
       { "key": "B", "text": "Farmacoterapia intensiva" },
       { "key": "C", "text": "Tratamientos combinados (psicofarmacológicos y psicoterapéuticos)" },
-      { "key": "D", "text": "Intervención social comunitaria únicamente" }
+      { "key": "D", "text": "Terapias alternativas naturales" }
     ],
     "correctAnswerKey": "C",
     "difficulty": "2",
-    "explanation": "La evidencia clínica actual sostiene que la combinación de medicación (para estabilizar síntomas biológicos) y terapia (para el manejo de herramientas psicológicas) ofrece mejores resultados a largo plazo."
+    "explanation": "La combinación de fármacos para estabilizar la neuroquímica y terapia para modificar conductas y pensamientos ofrece la mayor tasa de recuperación."
   },
   {
     "id": 6,
@@ -71,106 +71,106 @@
       { "key": "A", "text": "Monitoreo constante" },
       { "key": "B", "text": "Elegir el fármaco más barato" },
       { "key": "C", "text": "Valoración diagnóstica precisa" },
-      { "key": "D", "text": "Uso de dosis máximas desde el inicio" }
+      { "key": "D", "text": "Reducción de dosis semanal" }
     ],
     "correctAnswerKey": "C",
     "difficulty": "1",
-    "explanation": "Sin un diagnóstico correcto, la elección del fármaco carecería de base científica. La valoración precisa es el paso esencial antes de prescribir cualquier fármaco."
+    "explanation": "Un diagnóstico erróneo llevará a un tratamiento ineficaz. Por ello, la evaluación inicial es el pilar de la farmacoterapia."
   },
   {
     "id": 7,
-    "text": "[Tipo: Definición] Al informar a los pacientes sobre la medicación, ¿qué concepto describe el tiempo que tarda el fármaco en empezar a mostrar su efecto terapéutico?",
+    "text": "[Tipo: Definición] ¿Qué concepto describe el tiempo que tarda el fármaco en empezar a mostrar su efecto terapéutico tras la primera dosis?",
     "options": [
       { "key": "A", "text": "Vida media" },
       { "key": "B", "text": "Periodo de abstinencia" },
       { "key": "C", "text": "Latencia terapéutica" },
-      { "key": "D", "text": "Biodisponibilidad" }
+      { "key": "D", "text": "Pico plasmático" }
     ],
     "correctAnswerKey": "C",
     "difficulty": "1",
-    "explanation": "La latencia terapéutica es el periodo que transcurre desde la administración del fármaco hasta que se observa una mejoría clínica notable, muy común en antidepresivos."
+    "explanation": "Muchos psicofármacos, como los antidepresivos, no actúan de inmediato; ese retraso se conoce como latencia terapéutica."
   },
   {
     "id": 8,
-    "text": "[Tipo: Comprensión] En el marco de la evaluación de fármacos STEPS, ¿a qué componente corresponde la necesidad de que los efectos adversos no graves sean soportables?",
+    "text": "[Tipo: Comprensión] En el modelo STEPS, ¿a qué se refiere que los efectos adversos no graves sean soportables para el paciente?",
     "options": [
       { "key": "A", "text": "Seguridad" },
       { "key": "B", "text": "Eficacia" },
       { "key": "C", "text": "Tolerabilidad" },
-      { "key": "D", "text": "Simplicidad" }
+      { "key": "D", "text": "Precio" }
     ],
     "correctAnswerKey": "C",
     "difficulty": "2",
-    "explanation": "La tolerabilidad se refiere a qué tan bien soporta el paciente los efectos secundarios leves/moderados, lo que influye directamente en si continuará o abandonará el tratamiento."
+    "explanation": "La tolerabilidad evalúa si el paciente puede convivir con los efectos secundarios del fármaco sin abandonar el tratamiento."
   },
   {
     "id": 9,
-    "text": "[Tipo: Definición] ¿Cuál es el rol del psicólogo que implica informar al paciente sobre los beneficios, riesgos y posibles efectos secundarios de la medicación?",
+    "text": "[Tipo: Definición] ¿Cuál es el rol del psicólogo al explicar beneficios, riesgos y efectos secundarios de la medicación?",
     "options": [
       { "key": "A", "text": "Coordinador del Tratamiento" },
       { "key": "B", "text": "Educador" },
       { "key": "C", "text": "Monitor del Progreso" },
-      { "key": "D", "text": "Prescriptor secundario" }
+      { "key": "D", "text": "Médico auxiliar" }
     ],
     "correctAnswerKey": "B",
     "difficulty": "1",
-    "explanation": "Como educador, el psicólogo ayuda a la psicoeducación del paciente, mejorando la adherencia al explicarle qué esperar del tratamiento farmacológico."
+    "explanation": "La función educativa (psicoeducación) es vital para que el paciente comprenda su tratamiento y mejore su cumplimiento."
   },
   {
     "id": 10,
-    "text": "[Tipo: Definición] Un psicofármaco se define como una sustancia que actúa terapéuticamente sobre el comportamiento, el funcionamiento de la mente y el:",
+    "text": "[Tipo: Definición] Un psicofármaco actúa terapéuticamente sobre el comportamiento, la mente y el:",
     "options": [
       { "key": "A", "text": "Locus coeruleus" },
       { "key": "B", "text": "Sistema límbico" },
       { "key": "C", "text": "Estado de ánimo" },
-      { "key": "D", "text": "Sistema nervioso periférico" }
+      { "key": "D", "text": "Reflejo motor" }
     ],
     "correctAnswerKey": "C",
     "difficulty": "1",
-    "explanation": "La definición clínica de psicofármaco incluye su acción sobre las funciones cognitivas, la conducta y la regulación de la afectividad o estado de ánimo."
+    "explanation": "Los psicofármacos se definen por su capacidad de modular el afecto, la cognición y la conducta."
   },
   {
     "id": 11,
-    "text": "[Tipo: Comprensión] ¿Qué tipo de sustancias químicas actúan sobre el estado de ánimo pero no se consideran psicofármacos porque su objetivo terapéutico primario no es el funcionamiento mental?",
+    "text": "[Tipo: Comprensión] ¿Por qué los fármacos para el Parkinson no se consideran psicofármacos propiamente dichos?",
     "options": [
-      { "key": "A", "text": "Benzodiacepinas" },
-      { "key": "B", "text": "Antidepresivos" },
-      { "key": "C", "text": "Fármacos que usan los neurólogos (ej. para el Parkinson)" },
-      { "key": "D", "text": "Neurolépticos" }
+      { "key": "A", "text": "Porque no atraviesan el cerebro" },
+      { "key": "B", "text": "Porque su objetivo primario es motor, no el funcionamiento mental" },
+      { "key": "C", "text": "Porque son sustancias naturales" },
+      { "key": "D", "text": "Porque no tienen efectos secundarios" }
     ],
-    "correctAnswerKey": "C",
+    "correctAnswerKey": "B",
     "difficulty": "2",
-    "explanation": "Aunque fármacos para el Parkinson afectan el ánimo, su objetivo primario es el control motor, por lo que no se clasifican estrictamente como psicofármacos en el contexto psiquiátrico tradicional."
+    "explanation": "Aunque afectan la dopamina y el ánimo, su indicación principal es una enfermedad neurológica motora."
   },
   {
     "id": 12,
     "text": "[Tipo: Definición] ¿Cuál es la finalidad de la psicopatología como ciencia nomotética?",
     "options": [
       { "key": "A", "text": "Aplicación clínica al sujeto individual" },
-      { "key": "B", "text": "Estudio del caso particular (idiográfico)" },
-      { "key": "C", "text": "Establecer leyes universales que expliquen las alteraciones mentales" },
-      { "key": "D", "text": "Tratamiento directo de la sintomatología" }
+      { "key": "B", "text": "Estudio del caso particular" },
+      { "key": "C", "text": "Establecer leyes universales sobre las alteraciones mentales" },
+      { "key": "D", "text": "Venta de medicamentos" }
     ],
     "correctAnswerKey": "C",
     "difficulty": "2",
-    "explanation": "Lo 'nomotético' se refiere a la búsqueda de leyes generales o principios universales aplicables a una población, a diferencia de lo 'idiográfico' que se centra en el individuo."
+    "explanation": "Como ciencia nomotética, busca generalizaciones y leyes que se apliquen a todos los casos de un mismo trastorno."
   },
   {
     "id": 13,
-    "text": "[Tipo: Definición] ¿Qué concepto de la evaluación STEPS se refiere a que el fármaco no debe causar efectos adversos graves o mortales?",
+    "text": "[Tipo: Comprensión] ¿Qué concepto de STEPS indica que el fármaco no debe ser mortal en dosis terapéuticas?",
     "options": [
       { "key": "A", "text": "Tolerabilidad" },
       { "key": "B", "text": "Precio" },
       { "key": "C", "text": "Seguridad" },
-      { "key": "D", "text": "Eficacia" }
+      { "key": "D", "text": "Simplicidad" }
     ],
     "correctAnswerKey": "C",
     "difficulty": "1",
-    "explanation": "La seguridad evalúa el riesgo de daño grave (toxicidad orgánica, riesgo de muerte o efectos teratogénicos) frente al beneficio terapéutico."
+    "explanation": "La seguridad se diferencia de la tolerabilidad en que evalúa riesgos graves para la vida o la salud orgánica."
   },
   {
     "id": 14,
-    "text": "[Tipo: Comprensión] En el Modelo Diátesis-Estrés, ¿qué término se refiere a los factores desencadenantes del inicio o agravamiento de los trastornos mentales?",
+    "text": "[Tipo: Definición] En el modelo Diátesis-Estrés, ¿qué término define a los factores ambientales desencadenantes?",
     "options": [
       { "key": "A", "text": "Diátesis" },
       { "key": "B", "text": "Vulnerabilidad" },
@@ -179,110 +179,1513 @@
     ],
     "correctAnswerKey": "C",
     "difficulty": "1",
-    "explanation": "El estrés representa el conjunto de experiencias ambientales o psicológicas negativas que actúan sobre la vulnerabilidad previa del sujeto."
+    "explanation": "El estrés es la carga externa que 'activa' la predisposición biológica latente."
   },
   {
     "id": 15,
-    "text": "[Tipo: Análisis] Cuando un fármaco que fue eficaz en episodios anteriores es considerado como primera opción en una recurrencia, se aplica el principio de:",
+    "text": "[Tipo: Análisis] ¿Qué principio se aplica si un paciente vuelve a recaer y se elige el mismo fármaco que funcionó antes?",
     "options": [
       { "key": "A", "text": "Monitoreo constante" },
       { "key": "B", "text": "Estrategias aplicadas previamente" },
       { "key": "C", "text": "Latencia terapéutica" },
-      { "key": "D", "text": "Economía de recursos" }
+      { "key": "D", "text": "Efecto placebo" }
     ],
     "correctAnswerKey": "B",
     "difficulty": "2",
-    "explanation": "La historia farmacológica del paciente es un predictor clave del éxito; si un fármaco funcionó bien antes, es probable que el sistema neuroquímico del paciente responda igual nuevamente."
+    "explanation": "La respuesta previa es el mejor predictor de respuesta futura en psicofarmacología."
   },
   {
     "id": 16,
-    "text": "[Tipo: Comprensión] ¿Qué grupo de trastornos mentales es mencionado como altamente prevalente y afecta particularmente a las mujeres?",
+    "text": "[Tipo: Comprensión] ¿Qué trastornos son altamente prevalentes y afectan más a las mujeres?",
     "options": [
       { "key": "A", "text": "Trastorno Bipolar" },
       { "key": "B", "text": "Psicosis" },
       { "key": "C", "text": "Trastornos de Ansiedad" },
-      { "key": "D", "text": "Trastornos de la personalidad antisocial" }
+      { "key": "D", "text": "TDAH" }
     ],
     "correctAnswerKey": "C",
     "difficulty": "1",
-    "explanation": "Las estadísticas globales indican una prevalencia significativamente mayor de trastornos de ansiedad y depresión en la población femenina."
+    "explanation": "La epidemiología muestra que los trastornos de ansiedad y depresivos tienen una mayor incidencia en mujeres."
   },
   {
     "id": 17,
-    "text": "[Tipo: Comprensión] ¿Qué tipo de trastorno de ansiedad suele comenzar en la adolescencia o infancia tardía y tiende a ser crónico?",
+    "text": "[Tipo: Definición] Trastorno de ansiedad que suele iniciar en la adolescencia y tiende a la cronicidad:",
     "options": [
-      { "key": "A", "text": "Trastorno de Pánico" },
+      { "key": "A", "text": "Ataque de pánico" },
       { "key": "B", "text": "Fobia Social (TAS)" },
-      { "key": "C", "text": "Trastorno de Ansiedad Generalizada (TAG)" },
-      { "key": "D", "text": "Estrés postraumático" }
+      { "key": "C", "text": "Ansiedad Generalizada" },
+      { "key": "D", "text": "Fobia a las alturas" }
     ],
     "correctAnswerKey": "B",
     "difficulty": "2",
-    "explanation": "La Fobia Social o Trastorno de Ansiedad Social (TAS) tiene un inicio temprano característico ligado al desarrollo de la autoconciencia social en la adolescencia."
+    "explanation": "El Trastorno de Ansiedad Social (TAS) tiene su pico de aparición cuando las relaciones sociales se vuelven críticas (adolescencia)."
   },
   {
     "id": 18,
-    "text": "[Tipo: Análisis] En la fase aguda del tratamiento antidepresivo, ¿cuál es el porcentaje de mejoría sintomática que se considera una 'Respuesta'?",
+    "text": "[Tipo: Análisis] En depresión, una 'Respuesta' al tratamiento implica una mejoría de al menos el:",
     "options": [
-      { "key": "A", "text": "Al menos el 25%" },
-      { "key": "B", "text": "Al menos el 50%" },
-      { "key": "C", "text": "Ausencia total de síntomas" },
-      { "key": "D", "text": "Estabilización del sueño únicamente" }
+      { "key": "A", "text": "25%" },
+      { "key": "B", "text": "50%" },
+      { "key": "C", "text": "100%" },
+      { "key": "D", "text": "10%" }
     ],
     "correctAnswerKey": "B",
     "difficulty": "2",
-    "explanation": "Se define técnicamente 'Respuesta' como una reducción de al menos el 50% en las escalas de calificación de síntomas (como la escala de Hamilton)."
+    "explanation": "Se considera respuesta clínica cuando los síntomas se reducen a la mitad según escalas estandarizadas."
   },
   {
     "id": 19,
-    "text": "[Tipo: Comprensión] ¿Cuál de los siguientes es un rol clave del psicólogo en el tratamiento combinado?",
+    "text": "[Tipo: Comprensión] ¿Cuál es el rol del psicólogo respecto a los efectos secundarios del fármaco?",
     "options": [
-      { "key": "A", "text": "Prescribir medicación en casos de urgencia" },
-      { "key": "B", "text": "Monitorizar los posibles efectos adversos del tratamiento" },
-      { "key": "C", "text": "Ajustar la dosis del fármaco según la respuesta" },
-      { "key": "D", "text": "Realizar análisis de sangre para medir niveles del fármaco" }
+      { "key": "A", "text": "Prescribir el antídoto" },
+      { "key": "B", "text": "Monitorizar los posibles efectos adversos" },
+      { "key": "C", "text": "Ajustar la dosis" },
+      { "key": "D", "text": "Suspender la medicación" }
     ],
     "correctAnswerKey": "B",
     "difficulty": "2",
-    "explanation": "El psicólogo tiene más contacto frecuente con el paciente y puede detectar cambios conductuales o físicos que indiquen efectos secundarios, informando al médico tratante."
+    "explanation": "El psicólogo monitoriza la aparición de efectos adversos para alertar al médico y trabajar la adherencia con el paciente."
   },
   {
     "id": 20,
-    "text": "[Tipo: Comprensión] ¿Qué se busca al intentar que el tratamiento sea 'Sencillo' (Principio STEPS)?",
+    "text": "[Tipo: Comprensión] ¿A qué se refiere la 'Simplicidad' en el modelo STEPS?",
     "options": [
-      { "key": "A", "text": "Que sea económicamente accesible" },
-      { "key": "B", "text": "Que la dosis se ajuste constantemente" },
-      { "key": "C", "text": "Simplicidad en la pauta de administración (ej., una vez al día)" },
-      { "key": "D", "text": "Que el paciente no requiera terapia adicional" }
+      { "key": "A", "text": "Fármaco barato" },
+      { "key": "B", "text": "Fármaco sin química" },
+      { "key": "C", "text": "Pauta de administración sencilla (ej. 1 vez al día)" },
+      { "key": "D", "text": "Diagnóstico fácil" }
     ],
     "correctAnswerKey": "C",
     "difficulty": "1",
-    "explanation": "La simplicidad (frecuencia de tomas y facilidad de administración) es uno de los predictores más fuertes de la adherencia al tratamiento."
+    "explanation": "Menos tomas diarias aumentan drásticamente la probabilidad de que el paciente no olvide su medicación."
   },
   {
     "id": 21,
-    "text": "[Tipo: Definición] ¿Qué rama de la farmacología estudia los procesos y factores que determinan la cantidad de fármaco presente en el sitio de acción (biofase)?",
+    "text": "[Tipo: Definición] Rama que estudia los procesos que determinan la cantidad de fármaco en la biofase:",
     "options": [
       { "key": "A", "text": "Farmacodinamia" },
       { "key": "B", "text": "Farmacocinética" },
       { "key": "C", "text": "Farmacología Clínica" },
-      { "key": "D", "text": "Farmacogenética" }
+      { "key": "D", "text": "Bioética" }
     ],
     "correctAnswerKey": "B",
     "difficulty": "1",
-    "explanation": "La farmacocinética estudia lo que 'el cuerpo le hace al fármaco' (ADME), determinando su concentración en el tiempo."
+    "explanation": "La farmacocinética se resume en 'lo que el organismo le hace al fármaco'."
   },
   {
     "id": 22,
-    "text": "[Tipo: Definición] ¿Cuáles son los cuatro procesos fundamentales de la Farmacocinética (ADME)?",
+    "text": "[Tipo: Definición] Los cuatro procesos ADME de la Farmacocinética son:",
     "options": [
       { "key": "A", "text": "Acción, Dosis, Metabolismo, Eliminación" },
       { "key": "B", "text": "Activación, Distribución, Migración, Excreción" },
       { "key": "C", "text": "Absorción, Distribución, Metabolismo, Excreción" },
-      { "key": "D", "text": "Absorción, Disolución, Modulación, Efecto" }
+      { "key": "D", "text": "Absorción, Disolución, Metabolismo, Efecto" }
     ],
     "correctAnswerKey": "C",
     "difficulty": "1",
-    "explanation": "ADME es el acrónimo estándar: Absorción (entrada), Distribución (reparto), Metabolismo (transformación) y Excreción (salida)."
+    "explanation": "ADME: Absorción, Distribución, Metabolismo y Excreción representan el viaje del fármaco por el cuerpo."
+  },
+  {
+    "id": 23,
+    "text": "[Tipo: Comprensión] ¿Órgano donde ocurre principalmente el Metabolismo de los fármacos?",
+    "options": [
+      { "key": "A", "text": "Riñones" },
+      { "key": "B", "text": "Cerebro" },
+      { "key": "C", "text": "Hígado" },
+      { "key": "D", "text": "Corazón" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "El hígado utiliza enzimas para transformar el fármaco y facilitar su posterior eliminación."
+  },
+  {
+    "id": 24,
+    "text": "[Tipo: Comprensión] ¿Principal vía de eliminación de la mayoría de los psicofármacos?",
+    "options": [
+      { "key": "A", "text": "Heces" },
+      { "key": "B", "text": "Sudor" },
+      { "key": "C", "text": "Riñones (Orina)" },
+      { "key": "D", "text": "Aliento" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "La excreción renal es la vía mayoritaria tras la filtración de la sangre en los riñones."
+  },
+  {
+    "id": 25,
+    "text": "[Tipo: Definición] Producto resultante de la transformación del fármaco en el hígado:",
+    "options": [
+      { "key": "A", "text": "Excipiente" },
+      { "key": "B", "text": "Metabolito" },
+      { "key": "C", "text": "Agonista" },
+      { "key": "D", "text": "Ligando" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Un metabolito puede ser inactivo o seguir teniendo efectos terapéuticos (metabolito activo)."
+  },
+  {
+    "id": 26,
+    "text": "[Tipo: Definición] Tiempo para que la concentración plasmática se reduzca al 50%:",
+    "options": [
+      { "key": "A", "text": "Latencia terapéutica" },
+      { "key": "B", "text": "Pico plasmático" },
+      { "key": "C", "text": "Vida media" },
+      { "key": "D", "text": "Ventana terapéutica" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "La vida media determina cada cuánto tiempo debe administrarse una dosis para mantener niveles estables."
+  },
+  {
+    "id": 27,
+    "text": "[Tipo: Análisis] Relación entre la dosis y el efecto observado:",
+    "options": [
+      { "key": "A", "text": "Biodisponibilidad" },
+      { "key": "B", "text": "Vida media" },
+      { "key": "C", "text": "Curva dosis-respuesta" },
+      { "key": "D", "text": "Margen de seguridad" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Indica el punto donde aumentar la dosis ya no produce más beneficio (meseta) o empieza a ser tóxico."
+  },
+  {
+    "id": 28,
+    "text": "[Tipo: Definición] Fármaco que activa un receptor imitando al neurotransmisor natural:",
+    "options": [
+      { "key": "A", "text": "Antagonista" },
+      { "key": "B", "text": "Agonista" },
+      { "key": "C", "text": "Inhibidor" },
+      { "key": "D", "text": "Placebo" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "1",
+    "explanation": "El agonista 'enciende' el receptor al encajar en él perfectamente."
+  },
+  {
+    "id": 29,
+    "text": "[Tipo: Definición] Fármaco que bloquea un receptor impidiendo la acción del neurotransmisor:",
+    "options": [
+      { "key": "A", "text": "Agonista parcial" },
+      { "key": "B", "text": "Agonista inverso" },
+      { "key": "C", "text": "Antagonista" },
+      { "key": "D", "text": "Modulador" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "El antagonista ocupa el lugar en el receptor pero no lo activa, funcionando como un 'tapón'."
+  },
+  {
+    "id": 30,
+    "text": "[Tipo: Definición] ¿Cuál es el principal neurotransmisor excitatorio del cerebro?",
+    "options": [
+      { "key": "A", "text": "GABA" },
+      { "key": "B", "text": "Dopamina" },
+      { "key": "C", "text": "Glutamato" },
+      { "key": "D", "text": "Serotonina" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "El glutamato es responsable de la mayor parte de la transmisión de señales rápidas de excitación en el SNC."
+  },
+  {
+    "id": 31,
+    "text": "[Tipo: Definición] ¿Principal neurotransmisor inhibitorio asociado a relajación?",
+    "options": [
+      { "key": "A", "text": "Serotonina" },
+      { "key": "B", "text": "Noradrenalina" },
+      { "key": "C", "text": "GABA" },
+      { "key": "D", "text": "Acetilcolina" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "El GABA actúa como el 'freno' del cerebro, reduciendo la actividad neuronal."
+  },
+  {
+    "id": 32,
+    "text": "[Tipo: Análisis] Neurotransmisor regulador del sueño, ánimo y ansiedad, ligado al TOC:",
+    "options": [
+      { "key": "A", "text": "Dopamina" },
+      { "key": "B", "text": "Serotonina" },
+      { "key": "C", "text": "Noradrenalina" },
+      { "key": "D", "text": "Glutamato" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "La serotonina (5-HT) es la diana principal de los tratamientos para la depresión y el TOC."
+  },
+  {
+    "id": 33,
+    "text": "[Tipo: Análisis] Neurotransmisor del control motor y emociones, elevado en esquizofrenia:",
+    "options": [
+      { "key": "A", "text": "Noradrenalina" },
+      { "key": "B", "text": "Dopamina" },
+      { "key": "C", "text": "Serotonina" },
+      { "key": "D", "text": "GABA" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Un exceso de dopamina en la vía mesolímbica se asocia con los síntomas positivos (alucinaciones) de la psicosis."
+  },
+  {
+    "id": 34,
+    "text": "[Tipo: Análisis] La Noradrenalina se relaciona principalmente con:",
+    "options": [
+      { "key": "A", "text": "Control motor" },
+      { "key": "B", "text": "Saciedad" },
+      { "key": "C", "text": "Respuesta al estrés y alerta" },
+      { "key": "D", "text": "Memoria a largo plazo" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Es el sistema de 'lucha o huida', activando el estado de vigilancia y la respuesta simpática."
+  },
+  {
+    "id": 35,
+    "text": "[Tipo: Definición] Enzima que degrada dopamina y serotonina, inhibida por ciertos antidepresivos:",
+    "options": [
+      { "key": "A", "text": "COMT" },
+      { "key": "B", "text": "Acetilcolinesterasa" },
+      { "key": "C", "text": "MAO (Monoaminooxidasa)" },
+      { "key": "D", "text": "Lipasa" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La MAO 'limpia' el espacio sináptico; al inhibirla, aumentan los niveles de neurotransmisores."
+  },
+  {
+    "id": 36,
+    "text": "[Tipo: Definición] ¿Duración aproximada del retraso sináptico químico?",
+    "options": [
+      { "key": "A", "text": "5 segundos" },
+      { "key": "B", "text": "0.5 milisegundos" },
+      { "key": "C", "text": "50 milisegundos" },
+      { "key": "D", "text": "1 minuto" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "3",
+    "explanation": "Aunque es extremadamente rápido, la liberación y unión del neurotransmisor toma un tiempo ínfimo llamado retraso sináptico."
+  },
+  {
+    "id": 37,
+    "text": "[Tipo: Definición] ¿Cómo se llama al lugar exacto donde el fármaco ejerce su acción específica?",
+    "options": [
+      { "key": "A", "text": "Torrente sanguíneo" },
+      { "key": "B", "text": "Hígado" },
+      { "key": "C", "text": "Biofase" },
+      { "key": "D", "text": "Estómago" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La biofase es el medio en el cual el fármaco puede interactuar con sus receptores celulares."
+  },
+  {
+    "id": 38,
+    "text": "[Tipo: Comprensión] Receptores que son canales iónicos de respuesta rápida:",
+    "options": [
+      { "key": "A", "text": "Metabotrópicos" },
+      { "key": "B", "text": "Adrenérgicos" },
+      { "key": "C", "text": "Ionotrópicos" },
+      { "key": "D", "text": "Proteína G" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Los ionotrópicos se abren o cierran inmediatamente al recibir el ligando, permitiendo el paso de iones."
+  },
+  {
+    "id": 39,
+    "text": "[Tipo: Definición] Cantidad de fármaco que llega a la sangre tras la absorción:",
+    "options": [
+      { "key": "A", "text": "Metabolización" },
+      { "key": "B", "text": "Vida media" },
+      { "key": "C", "text": "Biodisponibilidad" },
+      { "key": "D", "text": "Eliminación" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Por ejemplo, la vía intravenosa tiene una biodisponibilidad del 100%."
+  },
+  {
+    "id": 40,
+    "text": "[Tipo: Definición] Fármaco que activa el receptor pero no logra el efecto máximo posible:",
+    "options": [
+      { "key": "A", "text": "Agonista total" },
+      { "key": "B", "text": "Antagonista" },
+      { "key": "C", "text": "Agonista parcial" },
+      { "key": "D", "text": "Modulador alostérico" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Incluso ocupando todos los receptores, su respuesta es menor a la del agonista puro."
+  },
+  {
+    "id": 41,
+    "text": "[Tipo: Definición] Sensación de opresión física y sofocación en el pecho:",
+    "options": [
+      { "key": "A", "text": "Pánico" },
+      { "key": "B", "text": "Ansiedad anticipatoria" },
+      { "key": "C", "text": "Angustia" },
+      { "key": "D", "text": "Fobia" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "La angustia se manifiesta con síntomas físicos de predominio neurovegetativo y muscular."
+  },
+  {
+    "id": 42,
+    "text": "[Tipo: Definición] Miedo intenso súbito con sensación de muerte inminente:",
+    "options": [
+      { "key": "A", "text": "Ansiedad" },
+      { "key": "B", "text": "Angustia" },
+      { "key": "C", "text": "Pánico" },
+      { "key": "D", "text": "Distimia" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "El pánico es un pico de miedo extremo que ocurre de forma inesperada y desbordante."
+  },
+  {
+    "id": 43,
+    "text": "[Tipo: Análisis] Elemento de la tríada clínica del ansioso, ausente en la depresión pura:",
+    "options": [
+      { "key": "A", "text": "Anhedonia" },
+      { "key": "B", "text": "Falta de energía" },
+      { "key": "C", "text": "Conductas evitativas" },
+      { "key": "D", "text": "Llanto fácil" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "El ansioso evita situaciones que le generen miedo, mientras que el depresivo tiende más a la inactividad por falta de interés."
+  },
+  {
+    "id": 44,
+    "text": "[Tipo: Comprensión] Prevalencia aproximada del Trastorno de Pánico en la población:",
+    "options": [
+      { "key": "A", "text": "10% a 11%" },
+      { "key": "B", "text": "1.5% al 5%" },
+      { "key": "C", "text": "3% al 8%" },
+      { "key": "D", "text": "20%" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "3",
+    "explanation": "Es un trastorno relativamente común, siendo tres veces más frecuente en mujeres."
+  },
+  {
+    "id": 45,
+    "text": "[Tipo: Comprensión] Característica principal del Trastorno de Ansiedad Generalizada (TAG):",
+    "options": [
+      { "key": "A", "text": "Crisis súbitas de pánico" },
+      { "key": "B", "text": "Miedo a volar" },
+      { "key": "C", "text": "Ansiedad crónica y excesiva por situaciones diarias" },
+      { "key": "D", "text": "Ganas de lavarse las manos constantemente" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "En el TAG, la persona vive preocupada por casi todo, de forma persistente durante meses."
+  },
+  {
+    "id": 46,
+    "text": "[Tipo: Definición] Síntoma nuclear del Trastorno Obsesivo-Compulsivo (TOC):",
+    "options": [
+      { "key": "A", "text": "Miedo a hablar en público" },
+      { "key": "B", "text": "Obsesiones intrusivas y compulsiones rituales" },
+      { "key": "C", "text": "Ataques de llanto" },
+      { "key": "D", "text": "Pérdida de memoria" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "1",
+    "explanation": "El TOC se define por la presencia de pensamientos que generan ansiedad y actos mentales o físicos para calmarla."
+  },
+  {
+    "id": 47,
+    "text": "[Tipo: Comprensión] Obsesión por mantener los objetos en orden perfecto:",
+    "options": [
+      { "key": "A", "text": "Coleccionismo" },
+      { "key": "B", "text": "Contaminación" },
+      { "key": "C", "text": "Necesidad de simetría" },
+      { "key": "D", "text": "Duda patológica" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "La simetría y el orden son temas comunes en el TOC que llevan a compulsiones de reacomodación."
+  },
+  {
+    "id": 48,
+    "text": "[Tipo: Análisis] Tratamiento de primera línea a largo plazo para el Trastorno de Pánico:",
+    "options": [
+      { "key": "A", "text": "Benzodiacepinas" },
+      { "key": "B", "text": "Antipsicóticos" },
+      { "key": "C", "text": "Inhibidores Selectivos de la Recaptación de Serotonina (ISRS)" },
+      { "key": "D", "text": "Anfetaminas" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Los ISRS son los preferidos por su eficacia y menor riesgo de dependencia comparado con ansiolíticos."
+  },
+  {
+    "id": 49,
+    "text": "[Tipo: Comprensión] ¿A qué grupo de fármacos reemplazaron las benzodiacepinas por ser más seguras?",
+    "options": [
+      { "key": "A", "text": "Antipsicóticos" },
+      { "key": "B", "text": "ISRS" },
+      { "key": "C", "text": "Barbitúricos" },
+      { "key": "D", "text": "Analgésicos" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "Los barbitúricos tenían un riesgo muy alto de muerte por sobredosis, algo mucho menos frecuente con benzodiacepinas."
+  },
+  {
+    "id": 50,
+    "text": "[Tipo: Definición] Mecanismo de acción de las benzodiacepinas:",
+    "options": [
+      { "key": "A", "text": "Bloqueo de serotonina" },
+      { "key": "B", "text": "Agonistas del glutamato" },
+      { "key": "C", "text": "Agonistas indirectos del GABA" },
+      { "key": "D", "text": "Inhibición de la dopamina" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Se unen al receptor GABA-A y potencian la entrada de cloruro cuando el GABA está presente."
+  },
+  {
+    "id": 51,
+    "text": "[Tipo: Comprensión] La entrada de qué ion provoca el efecto de las benzodiacepinas:",
+    "options": [
+      { "key": "A", "text": "Sodio" },
+      { "key": "B", "text": "Potasio" },
+      { "key": "C", "text": "Cloruro" },
+      { "key": "D", "text": "Calcio" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "El cloruro (carga negativa) hiperpolariza la neurona, haciéndola menos propensa a activarse (inhibición)."
+  },
+  {
+    "id": 52,
+    "text": "[Tipo: Comprensión] Área cerebral ligada a la vigilancia y el pánico:",
+    "options": [
+      { "key": "A", "text": "Corteza prefrontal" },
+      { "key": "B", "text": "Hipocampo" },
+      { "key": "C", "text": "Locus coeruleus" },
+      { "key": "D", "text": "Cerebelo" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "3",
+    "explanation": "Es el principal núcleo noradrenérgico; su sobreactivación dispara la alarma del pánico."
+  },
+  {
+    "id": 53,
+    "text": "[Tipo: Comprensión] Las benzodiacepinas atraviesan fácilmente la placenta y la leche materna debido a su alta:",
+    "options": [
+      { "key": "A", "text": "Hidrosolubilidad" },
+      { "key": "B", "text": "Liposolubilidad" },
+      { "key": "C", "text": "Acidez" },
+      { "key": "D", "text": "Densidad" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Al ser afines a las grasas, cruzan todas las barreras biológicas compuestas por membranas lipídicas."
+  },
+  {
+    "id": 54,
+    "text": "[Tipo: Comprensión] Efecto adverso de las BZD que impide formar nuevos recuerdos:",
+    "options": [
+      { "key": "A", "text": "Sedación" },
+      { "key": "B", "text": "Ataxia" },
+      { "key": "C", "text": "Trastornos mnésicos (amnesia anterógrada)" },
+      { "key": "D", "text": "Insomnio" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "El paciente puede estar despierto pero no recordar lo ocurrido mientras el fármaco hacía efecto."
+  },
+  {
+    "id": 55,
+    "text": "[Tipo: Comprensión] Aumento de agresión o ansiedad por BZD en ciertos pacientes:",
+    "options": [
+      { "key": "A", "text": "Tolerancia" },
+      { "key": "B", "text": "Dependencia" },
+      { "key": "C", "text": "Reacciones paradójicas" },
+      { "key": "D", "text": "Efecto de primer paso" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Ocurre lo contrario a lo esperado; en lugar de calmar, desinhiben la conducta agresiva."
+  },
+  {
+    "id": 56,
+    "text": "[Tipo: Comprensión] Contraindicación absoluta para el uso de benzodiacepinas:",
+    "options": [
+      { "key": "A", "text": "Depresión" },
+      { "key": "B", "text": "Pánico" },
+      { "key": "C", "text": "Antecedentes de adicciones o consumo de alcohol" },
+      { "key": "D", "text": "Migraña" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "El alcohol potencia el efecto depresor respiratorio de las BZD y hay alto riesgo de abuso."
+  },
+  { "id": 57,
+    "text": "[Tipo: Comprensión] ¿Qué efecto NO poseen las benzodiacepinas?",
+    "options": [
+      { "key": "A", "text": "Relajante muscular" },
+      { "key": "B", "text": "Sedante" },
+      { "key": "C", "text": "Antidepresivo" },
+      { "key": "D", "text": "Anticonvulsivante" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "Las BZD son ansiolíticas, pero no corrigen el estado de ánimo bajo de la depresión; incluso pueden empeorarlo."
+  },
+  {
+    "id": 58,
+    "text": "[Tipo: Análisis] Benzodiacepina de vida media larga (más de 12 horas):",
+    "options": [
+      { "key": "A", "text": "Alprazolam" },
+      { "key": "B", "text": "Lorazepam" },
+      { "key": "C", "text": "Clonazepam" },
+      { "key": "D", "text": "Midazolam" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "El clonazepam tiene una duración prolongada, lo que permite tomas menos frecuentes."
+  },
+  {
+    "id": 59,
+    "text": "[Tipo: Definición] Reaparición de síntomas originales con mayor intensidad al suspender el fármaco:",
+    "options": [
+      { "key": "A", "text": "Recaída" },
+      { "key": "B", "text": "Recurrencia" },
+      { "key": "C", "text": "Efecto Rebote" },
+      { "key": "D", "text": "Abstinencia aguda" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Es breve pero intenso; el cerebro 'rebota' tras haber estado inhibido por la medicación."
+  },
+  {
+    "id": 60,
+    "text": "[Tipo: Definición] Falta de coordinación motora y equilibrio por BZD:",
+    "options": [
+      { "key": "A", "text": "Disartria" },
+      { "key": "B", "text": "Sedación" },
+      { "key": "C", "text": "Ataxia" },
+      { "key": "D", "text": "Distonía" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La ataxia es un riesgo mayor en ancianos, pues aumenta la probabilidad de caídas y fracturas."
+  },
+  {
+    "id": 61,
+    "text": "[Tipo: Análisis] Benzodiacepina de alta potencia y acción rápida:",
+    "options": [
+      { "key": "A", "text": "Diazepam" },
+      { "key": "B", "text": "Bromazepam" },
+      { "key": "C", "text": "Alprazolam" },
+      { "key": "D", "text": "Oxazepam" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "El alprazolam es muy eficaz para frenar crisis de ansiedad agudas rápidamente."
+  },
+  {
+    "id": 62,
+    "text": "[Tipo: Comprensión] ¿Para qué sirven las BZD al inicio de un tratamiento con ISRS?",
+    "options": [
+      { "key": "A", "text": "Para potenciar el efecto antidepresivo" },
+      { "key": "B", "text": "Para evitar que el paciente se duerma" },
+      { "key": "C", "text": "Para cubrir la latencia terapéutica del ISRS" },
+      { "key": "D", "text": "Para bajar de peso" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Como el ISRS tarda 2-3 semanas en actuar, la BZD calma la ansiedad mientras el otro fármaco inicia su efecto."
+  },
+  {
+    "id": 63,
+    "text": "[Tipo: Comprensión] Proporción de prevalencia mujer:hombre en el TAG:",
+    "options": [
+      { "key": "A", "text": "3:1" },
+      { "key": "B", "text": "1:1" },
+      { "key": "C", "text": "2:1" },
+      { "key": "D", "text": "5:1" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "3",
+    "explanation": "Las mujeres tienen el doble de probabilidad de ser diagnosticadas con Ansiedad Generalizada."
+  },
+  {
+    "id": 64,
+    "text": "[Tipo: Definición] Aparición de síntomas nuevos (como convulsiones) al dejar el fármaco:",
+    "options": [
+      { "key": "A", "text": "Rebote" },
+      { "key": "B", "text": "Recaída" },
+      { "key": "C", "text": "Síndrome de Abstinencia" },
+      { "key": "D", "text": "Tolerancia" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "A diferencia del rebote, aquí aparecen síntomas que el paciente nunca tuvo antes de medicarse."
+  },
+  {
+    "id": 65,
+    "text": "[Tipo: Comprensión] ¿Qué trastorno de ansiedad requiere dosis máximas de ISRS?",
+    "options": [
+      { "key": "A", "text": "Fobias específicas" },
+      { "key": "B", "text": "TOC (Trastorno Obsesivo-Compulsivo)" },
+      { "key": "C", "text": "Estrés agudo" },
+      { "key": "D", "text": "Ansiedad Social" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "El TOC es 'resistente' y suele requerir dosis de antidepresivos mucho más altas que la depresión común."
+  },
+  {
+    "id": 66,
+    "text": "[Tipo: Comprensión] ¿Cuál es el tiempo de latencia para que los efectos terapéuticos de los antidepresivos comiencen a ser visibles?",
+    "options": [
+      { "key": "A", "text": "2 a 5 días" },
+      { "key": "B", "text": "10 a 20 días" },
+      { "key": "C", "text": "3 meses" },
+      { "key": "D", "text": "6 a 8 semanas" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Aunque el bloqueo de la recaptación es inmediato, los cambios neuroplásticos necesarios para la mejoría clínica tardan de 2 a 3 semanas."
+  },
+  {
+    "id": 67,
+    "text": "[Tipo: Comprensión] ¿Cuál es el grupo de antidepresivos de primera elección hoy en día debido a su eficacia y perfil de seguridad?",
+    "options": [
+      { "key": "A", "text": "Antidepresivos Tricíclicos (ATC)" },
+      { "key": "B", "text": "IMAO" },
+      { "key": "C", "text": "Inhibidores Selectivos de la Recaptación de Serotonina (ISRS)" },
+      { "key": "D", "text": "Anfetaminas" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "Los ISRS son la primera línea por tener menos efectos adversos graves y ser mucho más seguros en caso de sobredosis que los fármacos antiguos."
+  },
+  {
+    "id": 68,
+    "text": "[Tipo: Definición] ¿Cuál es el mecanismo de acción de los ISRS?",
+    "options": [
+      { "key": "A", "text": "Bloquear la MAO" },
+      { "key": "B", "text": "Bloquear la recaptación de dopamina" },
+      { "key": "C", "text": "Bloquear el transportador de serotonina" },
+      { "key": "D", "text": "Activar los receptores GABA" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Al bloquear la bomba de recaptación, aumenta la disponibilidad de serotonina en el espacio sináptico para interactuar con la neurona postsináptica."
+  },
+  {
+    "id": 69,
+    "text": "[Tipo: Comprensión] Además de la depresión, ¿para qué otro trastorno mental son altamente eficaces los ISRS, requiriendo dosis máximas?",
+    "options": [
+      { "key": "A", "text": "Trastorno Bipolar" },
+      { "key": "B", "text": "Esquizofrenia" },
+      { "key": "C", "text": "Trastorno Obsesivo-Compulsivo (TOC)" },
+      { "key": "D", "text": "TDAH" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "El TOC responde bien a la modulación serotoninérgica, pero generalmente requiere dosis más elevadas y periodos de espera más largos que la depresión."
+  },
+  {
+    "id": 70,
+    "text": "[Tipo: Comprensión] ¿Qué efecto secundario es común tanto en el uso de ISRS como en el síndrome de discontinuación?",
+    "options": [
+      { "key": "A", "text": "Hipotensión ortostática" },
+      { "key": "B", "text": "Agranulocitosis" },
+      { "key": "C", "text": "Disfunción sexual (ej. anorgasmia)" },
+      { "key": "D", "text": "Caída del cabello" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La disfunción sexual es un efecto secundario muy prevalente que suele persistir durante todo el tratamiento con ISRS."
+  },
+  {
+    "id": 71,
+    "text": "[Tipo: Análisis] ¿Qué ISRS tiene mayor riesgo de síndrome de discontinuación debido a su vida media corta?",
+    "options": [
+      { "key": "A", "text": "Fluoxetina" },
+      { "key": "B", "text": "Sertralina" },
+      { "key": "C", "text": "Paroxetina" },
+      { "key": "D", "text": "Escitalopram" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "3",
+    "explanation": "La paroxetina sale del cuerpo rápidamente; si se olvida una dosis, los niveles en sangre caen bruscamente provocando síntomas de abstinencia."
+  },
+  {
+    "id": 72,
+    "text": "[Tipo: Análisis] Los IRSN (Duales), como la venlafaxina, son especialmente efectivos en casos de:",
+    "options": [
+      { "key": "A", "text": "Depresión leve" },
+      { "key": "B", "text": "Depresión más severa y resistente" },
+      { "key": "C", "text": "Ansiedad por separación" },
+      { "key": "D", "text": "Duelos normales" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Al actuar sobre dos sistemas (serotonina y noradrenalina), tienen una potencia mayor para cuadros depresivos graves."
+  },
+  {
+    "id": 73,
+    "text": "[Tipo: Comprensión] ¿Duración mínima recomendada del tratamiento antidepresivo tras la remisión para evitar recaídas?",
+    "options": [
+      { "key": "A", "text": "3 meses" },
+      { "key": "B", "text": "12 meses" },
+      { "key": "C", "text": "6 meses" },
+      { "key": "D", "text": "1 mes" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Se recomienda mantener el fármaco al menos un año para asegurar que los circuitos neuronales se han estabilizado completamente."
+  },
+  {
+    "id": 74,
+    "text": "[Tipo: Definición] ¿Qué efecto de los tricíclicos (ATC) causa boca seca y visión borrosa?",
+    "options": [
+      { "key": "A", "text": "Efectos cardiovasculares" },
+      { "key": "B", "text": "Efectos anticolinérgicos" },
+      { "key": "C", "text": "Efectos extrapiramidales" },
+      { "key": "D", "text": "Efectos sedantes" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Los ATC bloquean los receptores muscarínicos de la acetilcolina, provocando sequedad de mucosas y otros efectos molestos."
+  },
+  {
+    "id": 75,
+    "text": "[Tipo: Comprensión] ¿Por qué disminuyó el uso de los antidepresivos tricíclicos (ATC)?",
+    "options": [
+      { "key": "A", "text": "Tienen menor eficacia que los ISRS" },
+      { "key": "B", "text": "Tienen un perfil de efectos adversos amplio y mayor toxicidad" },
+      { "key": "C", "text": "Son muy caros" },
+      { "key": "D", "text": "No funcionan en ancianos" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Su toxicidad cardíaca en sobredosis y la mala tolerancia por parte de los pacientes los desplazaron a una segunda o tercera línea."
+  },
+  {
+    "id": 76,
+    "text": "[Tipo: Definición] La teoría monoaminérgica sugiere que la depresión se debe a la falta de:",
+    "options": [
+      { "key": "A", "text": "Glutamato y GABA" },
+      { "key": "B", "text": "Serotonina, noradrenalina y dopamina" },
+      { "key": "C", "text": "Acetilcolina y Histamina" },
+      { "key": "D", "text": "Endorfinas" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "1",
+    "explanation": "Esta teoría postula que un déficit en las aminas biógenas (serotonina, noradrenalina, dopamina) es la base neuroquímica de la depresión."
+  },
+  {
+    "id": 77,
+    "text": "[Tipo: Definición] Duración mínima de síntomas para diagnosticar un Episodio Depresivo Mayor (DSM-5):",
+    "options": [
+      { "key": "A", "text": "Al menos un mes" },
+      { "key": "B", "text": "Al menos dos semanas" },
+      { "key": "C", "text": "Seis meses" },
+      { "key": "D", "text": "48 horas" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "1",
+    "explanation": "El criterio temporal requiere que los síntomas estén presentes casi todo el día, todos los días, durante al menos 14 días."
+  },
+  {
+    "id": 78,
+    "text": "[Tipo: Definición] Síntoma obligatorio (entre otros) para el diagnóstico de Depresión Mayor:",
+    "options": [
+      { "key": "A", "text": "Agitación motora" },
+      { "key": "B", "text": "Fatiga" },
+      { "key": "C", "text": "Anhedonia (pérdida de interés o placer)" },
+      { "key": "D", "text": "Dolor de cabeza" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "Junto con el estado de ánimo deprimido, la anhedonia es uno de los dos síntomas nucleares obligatorios."
+  },
+  {
+    "id": 79,
+    "text": "[Tipo: Definición] ¿Cómo se llama a la ausencia total de síntomas tras el tratamiento?",
+    "options": [
+      { "key": "A", "text": "Respuesta" },
+      { "key": "B", "text": "Recaída" },
+      { "key": "C", "text": "Remisión" },
+      { "key": "D", "text": "Latencia" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "La remisión es el objetivo terapéutico ideal, donde el paciente vuelve a su nivel previo de funcionamiento sin síntomas."
+  },
+  {
+    "id": 80,
+    "text": "[Tipo: Comprensión] Duración de la Fase de Continuación (Diagrama de Kupfer):",
+    "options": [
+      { "key": "A", "text": "6 a 12 semanas" },
+      { "key": "B", "text": "4 a 9 meses" },
+      { "key": "C", "text": "1 año o más" },
+      { "key": "D", "text": "Toda la vida" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Tras lograr la remisión, el tratamiento debe continuar unos meses para consolidar la recuperación."
+  },
+  {
+    "id": 81,
+    "text": "[Tipo: Comprensión] ¿Para qué se utiliza el Bupropión además de para la depresión?",
+    "options": [
+      { "key": "A", "text": "Trastorno Bipolar" },
+      { "key": "B", "text": "Para dejar de fumar" },
+      { "key": "C", "text": "Para el TOC" },
+      { "key": "D", "text": "Como anestésico" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "El bupropión modula el sistema de recompensa dopaminérgico, siendo útil en la deshabituación tabáquica."
+  },
+  {
+    "id": 82,
+    "text": "[Tipo: Análisis] ¿Qué ocurre al iniciar ISRS en pacientes con Trastorno de Pánico?",
+    "options": [
+      { "key": "A", "text": "Se curan de inmediato" },
+      { "key": "B", "text": "Los síntomas pueden empeorar inicialmente (más inquietud)" },
+      { "key": "C", "text": "Requieren dosis dobles desde el primer día" },
+      { "key": "D", "text": "No tiene efecto alguno" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "3",
+    "explanation": "Al principio, el aumento de serotonina puede causar una hipersensibilidad que aumente la ansiedad, por lo que se asocia con benzodiacepinas."
+  },
+  {
+    "id": 83,
+    "text": "[Tipo: Definición] Reaparición de síntomas tras interrumpir la medicación después de 3 meses de recuperación:",
+    "options": [
+      { "key": "A", "text": "Recaída" },
+      { "key": "B", "text": "Rebote" },
+      { "key": "C", "text": "Recurrencia" },
+      { "key": "D", "text": "Resistencia" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "En el contexto de interrupción post-recuperación, se considera un nuevo episodio o recurrencia del proceso patológico."
+  },
+  {
+    "id": 84,
+    "text": "[Tipo: Análisis] Efecto secundario típico de los duales (IRSN) como la Venlafaxina:",
+    "options": [
+      { "key": "A", "text": "Disfunción sexual" },
+      { "key": "B", "text": "Trastornos gastrointestinales" },
+      { "key": "C", "text": "Aumento de la presión arterial" },
+      { "key": "D", "text": "Somnolencia extrema" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Debido a su acción sobre la noradrenalina, pueden causar un ligero incremento de la presión arterial sistólica."
+  },
+  {
+    "id": 85,
+    "text": "[Tipo: Comprensión] Fase del tratamiento que dura 1 año o más en depresiones recurrentes:",
+    "options": [
+      { "key": "A", "text": "Fase Aguda" },
+      { "key": "B", "text": "Fase de Continuación" },
+      { "key": "C", "text": "Fase de Mantenimiento" },
+      { "key": "D", "text": "Fase de Cierre" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "El mantenimiento busca evitar que aparezcan nuevos episodios en pacientes con alta vulnerabilidad."
+  },
+  {
+    "id": 86,
+    "text": "[Tipo: Definición] El Trastorno Bipolar Tipo I requiere al menos un episodio de:",
+    "options": [
+      { "key": "A", "text": "Hipomanía" },
+      { "key": "B", "text": "Depresión mayor" },
+      { "key": "C", "text": "Manía plena" },
+      { "key": "D", "text": "Psicosis" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "La manía plena (que a menudo requiere hospitalización) es el rasgo definitorio del Bipolar I."
+  },
+  {
+    "id": 87,
+    "text": "[Tipo: Definición] Episodio bipolar con síntomas de manía y depresión simultáneos:",
+    "options": [
+      { "key": "A", "text": "Episodio Hipomaníaco" },
+      { "key": "B", "text": "Episodio Depresivo Mayor" },
+      { "key": "C", "text": "Episodio Mixto" },
+      { "key": "D", "text": "Episodio Disfórico" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Los episodios mixtos son peligrosos por la combinación de la energía de la manía con la desesperanza de la depresión (alto riesgo de suicidio)."
+  },
+  {
+    "id": 88,
+    "text": "[Tipo: Análisis] Síntoma principal de un Episodio Maníaco:",
+    "options": [
+      { "key": "A", "text": "Hipersomnia" },
+      { "key": "B", "text": "Reducción de la necesidad de dormir" },
+      { "key": "C", "text": "Humor vacío" },
+      { "key": "D", "text": "Compulsiones" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "A diferencia del insomnio (querer dormir y no poder), el maníaco siente que no necesita el sueño para funcionar."
+  },
+  {
+    "id": 89,
+    "text": "[Tipo: Definición] Neuroquímico aumentado en episodios maníacos (sobreexcitación):",
+    "options": [
+      { "key": "A", "text": "Serotonina" },
+      { "key": "B", "text": "GABA" },
+      { "key": "C", "text": "Glutamato" },
+      { "key": "D", "text": "Melatonina" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "El exceso de glutamato produce una toxicidad neuronal y una aceleración del pensamiento característica de la manía."
+  },
+  {
+    "id": 90,
+    "text": "[Tipo: Análisis] El mecanismo Kindling sugiere que con cada episodio bipolar:",
+    "options": [
+      { "key": "A", "text": "El cerebro se vuelve más resistente" },
+      { "key": "B", "text": "El siguiente episodio es más fácil de desencadenar" },
+      { "key": "C", "text": "Se requiere menos medicación" },
+      { "key": "D", "text": "Los episodios desaparecen con la edad" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "3",
+    "explanation": "Es una 'sensibilización' del cerebro: tras varios episodios, ya no hace falta un gran estrés para que se dispare la manía."
+  },
+  {
+    "id": 91,
+    "text": "[Tipo: Definición] Estabilizadores 'desde arriba' (frenan la manía):",
+    "options": [
+      { "key": "A", "text": "Estabilizadores desde abajo" },
+      { "key": "B", "text": "Antidepresivos" },
+      { "key": "C", "text": "Litio y Valproato" },
+      { "key": "D", "text": "Estimulantes" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "El litio y el ácido valproico son excelentes para 'bajar' al paciente de un estado de exaltación."
+  },
+  {
+    "id": 92,
+    "text": "[Tipo: Análisis] Litemia normal recomendada en Manía Aguda:",
+    "options": [
+      { "key": "A", "text": "0.4 - 0.7 mmol/l" },
+      { "key": "B", "text": "1 - 1.2 mmol/l" },
+      { "key": "C", "text": "1.5 - 2.0 mmol/l" },
+      { "key": "D", "text": "0.1 - 0.3 mmol/l" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "3",
+    "explanation": "En cuadros agudos se necesita un nivel más alto en sangre para controlar los síntomas."
+  },
+  {
+    "id": 93,
+    "text": "[Tipo: Comprensión] Síntoma de toxicidad por Litio elevado:",
+    "options": [
+      { "key": "A", "text": "Hepatotoxicidad" },
+      { "key": "B", "text": "Erupción cutánea leve" },
+      { "key": "C", "text": "Ataxia, confusión y delirio" },
+      { "key": "D", "text": "Aumento de la libido" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La toxicidad por litio es una urgencia médica que afecta el sistema nervioso central y los riñones."
+  },
+  {
+    "id": 94,
+    "text": "[Tipo: Definición] Mecanismo de acción del Ácido Valproico:",
+    "options": [
+      { "key": "A", "text": "Inhibir la serotonina" },
+      { "key": "B", "text": "Bloquear receptores D2" },
+      { "key": "C", "text": "Incrementar la actividad del GABA" },
+      { "key": "D", "text": "Activar el glutamato" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Al aumentar el freno inhibitorio (GABA), ayuda a calmar la hiperexcitabilidad de la manía."
+  },
+  {
+    "id": 95,
+    "text": "[Tipo: Análisis] Estabilizador desaconsejado en pacientes con daño hepático:",
+    "options": [
+      { "key": "A", "text": "Litio" },
+      { "key": "B", "text": "Ácido Valproico" },
+      { "key": "C", "text": "Lamotrigina" },
+      { "key": "D", "text": "Zolpidem" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "A diferencia del litio (eliminación renal), el valproato se procesa en el hígado y puede ser hepatotóxico."
+  },
+  {
+    "id": 96,
+    "text": "[Tipo: Comprensión] Riesgo grave de la Lamotrigina si se sube la dosis rápido:",
+    "options": [
+      { "key": "A", "text": "Diarrea" },
+      { "key": "B", "text": "Síndrome de Stevens-Johnson" },
+      { "key": "C", "text": "Parkinsonismo" },
+      { "key": "D", "text": "Pérdida de visión" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "3",
+    "explanation": "Es una reacción cutánea y de mucosas potencialmente mortal, por eso la dosis de lamotrigina se sube muy lentamente."
+  },
+  {
+    "id": 97,
+    "text": "[Tipo: Análisis] Indicación principal de la Lamotrigina en Bipolaridad:",
+    "options": [
+      { "key": "A", "text": "Manía aguda" },
+      { "key": "B", "text": "Prevención de episodios depresivos" },
+      { "key": "C", "text": "Agitación psicomotriz" },
+      { "key": "D", "text": "Inducción del sueño" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Es un estabilizador 'desde abajo'; no sirve para frenar una manía, pero sí para evitar que el paciente caiga en depresión."
+  },
+  {
+    "id": 98,
+    "text": "[Tipo: Análisis] Combinación preferida para tratar Manía Aguda:",
+    "options": [
+      { "key": "A", "text": "Lamotrigina y Antidepresivos" },
+      { "key": "B", "text": "Benzodiacepinas solas" },
+      { "key": "C", "text": "Antipsicótico atípico + Litio o Valproato" },
+      { "key": "D", "text": "Terapia de grupo únicamente" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La sinergia entre un antipsicótico (acción rápida) y un estabilizador clásico es el estándar de oro."
+  },
+  {
+    "id": 99,
+    "text": "[Tipo: Análisis] Síntoma que sugiere depresión bipolar vs unipolar:",
+    "options": [
+      { "key": "A", "text": "Insomnio de conciliación" },
+      { "key": "B", "text": "Pérdida de apetito" },
+      { "key": "C", "text": "Hipersomnia (dormir demasiado)" },
+      { "key": "D", "text": "Ansiedad" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "3",
+    "explanation": "Las depresiones bipolares suelen ser más 'atípicas', con exceso de sueño y aumento de apetito."
+  },
+  {
+    "id": 100,
+    "text": "[Tipo: Comprensión] ¿Qué se usa para la agitación aguda en cuadros bipolares?",
+    "options": [
+      { "key": "A", "text": "Antidepresivos" },
+      { "key": "B", "text": "Estimulantes" },
+      { "key": "C", "text": "Benzodiacepinas" },
+      { "key": "D", "text": "Litio solo" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "Las BZD ayudan a calmar físicamente al paciente mientras los estabilizadores tardan unos días en actuar."
+  },
+  {
+    "id": 101,
+    "text": "[Tipo: Comprensión] Efecto del Valproato que requiere cautela en mujeres jóvenes:",
+    "options": [
+      { "key": "A", "text": "Calvicie" },
+      { "key": "B", "text": "Síndrome de ovario poliquístico" },
+      { "key": "C", "text": "Pérdida de memoria" },
+      { "key": "D", "text": "Aumento de estatura" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Puede causar desajustes hormonales que resultan en quistes ováricos y problemas metabólicos."
+  },
+  {
+    "id": 102,
+    "text": "[Tipo: Análisis] Fármaco para bipolaridad con ciclación rápida:",
+    "options": [
+      { "key": "A", "text": "Fluoxetina" },
+      { "key": "B", "text": "Carbamazepina" },
+      { "key": "C", "text": "Clonazepam" },
+      { "key": "D", "text": "Midazolam" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "3",
+    "explanation": "La carbamazepina es un anticonvulsivante que ha demostrado eficacia en pacientes que cambian de fase muchas veces al año."
+  },
+  {
+    "id": 103,
+    "text": "[Tipo: Definición] Fármacos Z (Zolpidem) se usan exclusivamente para:",
+    "options": [
+      { "key": "A", "text": "Ansiedad social" },
+      { "key": "B", "text": "Ataques de pánico" },
+      { "key": "C", "text": "Insomnio" },
+      { "key": "D", "text": "Depresión" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "Son hipnóticos puros; no tienen el efecto relajante muscular o ansiolítico general de las BZD."
+  },
+  {
+    "id": 104,
+    "text": "[Tipo: Definición] Síntomas de esquizofrenia como delirios y alucinaciones son:",
+    "options": [
+      { "key": "A", "text": "Síntomas afectivos" },
+      { "key": "B", "text": "Síntomas positivos" },
+      { "key": "C", "text": "Síntomas negativos" },
+      { "key": "D", "text": "Síntomas cognitivos" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "1",
+    "explanation": "Se llaman 'positivos' porque son funciones que se añaden al psiquismo normal (percepciones y creencias inexistentes)."
+  },
+  {
+    "id": 105,
+    "text": "[Tipo: Definición] Ejemplo de síntoma negativo de la esquizofrenia:",
+    "options": [
+      { "key": "A", "text": "Delirios de grandeza" },
+      { "key": "B", "text": "Anhedonia (falta de placer)" },
+      { "key": "C", "text": "Oír voces" },
+      { "key": "D", "text": "Desorganización del lenguaje" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "1",
+    "explanation": "Los síntomas negativos implican una 'resta' o déficit en la personalidad (apatía, retraimiento, falta de disfrute)."
+  },
+  {
+    "id": 106,
+    "text": "[Tipo: Análisis] Vía dopaminérgica ligada a los síntomas positivos (alucinaciones):",
+    "options": [
+      { "key": "A", "text": "Vía Nigroestriada" },
+      { "key": "B", "text": "Vía Mesocortical" },
+      { "key": "C", "text": "Vía Mesolímbica" },
+      { "key": "D", "text": "Vía Tuberoinfundibular" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La hiperactividad de dopamina en el sistema límbico es la causa de los síntomas psicóticos 'ruidosos'."
+  },
+  {
+    "id": 107,
+    "text": "[Tipo: Análisis] Vía dopaminérgica cuya hipofunción causa síntomas negativos:",
+    "options": [
+      { "key": "A", "text": "Vía Nigroestriada" },
+      { "key": "B", "text": "Vía Mesocortical" },
+      { "key": "C", "text": "Vía Mesolímbica" },
+      { "key": "D", "text": "Vía Espinal" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Menos dopamina en la corteza prefrontal explica la falta de motivación y el embotamiento afectivo."
+  },
+  {
+    "id": 108,
+    "text": "[Tipo: Comprensión] El bloqueo de la Vía Nigroestriada por antipsicóticos causa:",
+    "options": [
+      { "key": "A", "text": "Falta de deseo sexual" },
+      { "key": "B", "text": "Hipotensión" },
+      { "key": "C", "text": "Efectos extrapiramidales (temblores, rigidez)" },
+      { "key": "D", "text": "Aumento de memoria" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Esta vía controla el movimiento; bloquearla produce síntomas parecidos al Parkinson."
+  },
+  {
+    "id": 109,
+    "text": "[Tipo: Comprensión] Vía que al ser bloqueada provoca secreción de leche (galactorrea):",
+    "options": [
+      { "key": "A", "text": "Vía Nigroestriada" },
+      { "key": "B", "text": "Vía Mesolímbica" },
+      { "key": "C", "text": "Vía Tuberoinfundibular" },
+      { "key": "D", "text": "Vía Óptica" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La dopamina normalmente frena la prolactina; al bloquearla en esta vía, la prolactina se dispara."
+  },
+  {
+    "id": 110,
+    "text": "[Tipo: Definición] Mecanismo principal de Antipsicóticos Típicos (Haloperidol):",
+    "options": [
+      { "key": "A", "text": "Bloqueo selectivo de serotonina" },
+      { "key": "B", "text": "Agonismo de dopamina" },
+      { "key": "C", "text": "Bloqueo potente de receptores D2" },
+      { "key": "D", "text": "Aumento del GABA" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "Son 'antagonistas D2' puros; muy eficaces para delirios, pero con muchos efectos secundarios motores."
+  },
+  {
+    "id": 111,
+    "text": "[Tipo: Definición] Antipsicóticos Atípicos (Risperidona) bloquean receptores D2 y:",
+    "options": [
+      { "key": "A", "text": "Receptores de Insulina" },
+      { "key": "B", "text": "Canales de Calcio" },
+      { "key": "C", "text": "Receptores 5HT2 (serotonina)" },
+      { "key": "D", "text": "Receptores de Adrenalina" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "El bloqueo serotoninérgico permite liberar un poco de dopamina en la corteza, mejorando el perfil de efectos secundarios."
+  },
+  {
+    "id": 112,
+    "text": "[Tipo: Análisis] Ejemplo de antipsicótico típico de alta potencia:",
+    "options": [
+      { "key": "A", "text": "Clorpromazina" },
+      { "key": "B", "text": "Quetiapina" },
+      { "key": "C", "text": "Haloperidol" },
+      { "key": "D", "text": "Olanzapina" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "El Haloperidol es el fármaco de referencia para el control rápido de la psicosis aguda."
+  },
+  {
+    "id": 113,
+    "text": "[Tipo: Análisis] Antipsicótico para casos resistentes que requiere análisis de sangre:",
+    "options": [
+      { "key": "A", "text": "Risperidona" },
+      { "key": "B", "text": "Haloperidol" },
+      { "key": "C", "text": "Clozapina" },
+      { "key": "D", "text": "Aripiprazol" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La clozapina puede bajar los glóbulos blancos (agranulocitosis), por lo que se requiere un control hematológico estricto."
+  },
+  {
+    "id": 114,
+    "text": "[Tipo: Definición] Inquietud motora extrema, imposibilidad de quedarse quieto:",
+    "options": [
+      { "key": "A", "text": "Distonía" },
+      { "key": "B", "text": "Parkinsonismo" },
+      { "key": "C", "text": "Acatisia" },
+      { "key": "D", "text": "Tics" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La acatisia es una sensación subjetiva de tensión insoportable que obliga al paciente a moverse constantemente."
+  },
+  {
+    "id": 115,
+    "text": "[Tipo: Definición] Movimientos involuntarios de la boca y lengua (efecto tardío):",
+    "options": [
+      { "key": "A", "text": "Acatisia" },
+      { "key": "B", "text": "Distonía aguda" },
+      { "key": "C", "text": "Disquinesia Tardía" },
+      { "key": "D", "text": "Corea" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Suele aparecer tras años de tratamiento con antipsicóticos típicos y puede ser irreversible."
+  },
+  {
+    "id": 116,
+    "text": "[Tipo: Comprensión] Rigidez extrema, fiebre y confusión (urgencia por antipsicóticos):",
+    "options": [
+      { "key": "A", "text": "Parkinsonismo severo" },
+      { "key": "B", "text": "Gripe medicamentosa" },
+      { "key": "C", "text": "Síndrome Neuroléptico Maligno" },
+      { "key": "D", "text": "Crisis de pánico" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "3",
+    "explanation": "Es un cuadro raro pero letal que requiere retirar la medicación de inmediato y soporte vital."
+  },
+  {
+    "id": 117,
+    "text": "[Tipo: Comprensión] Efecto secundario metabólico común en antipsicóticos atípicos:",
+    "options": [
+      { "key": "A", "text": "Pérdida de masa ósea" },
+      { "key": "B", "text": "Aumento de peso y diabetes" },
+      { "key": "C", "text": "Anemia" },
+      { "key": "D", "text": "Hipertiroidismo" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Muchos atípicos aumentan el apetito y alteran el metabolismo de la glucosa y lípidos."
+  },
+  {
+    "id": 118,
+    "text": "[Tipo: Análisis] Antipsicótico muy sedante por su afinidad a receptores H1 (histamina):",
+    "options": [
+      { "key": "A", "text": "Risperidona" },
+      { "key": "B", "text": "Aripiprazol" },
+      { "key": "C", "text": "Quetiapina" },
+      { "key": "D", "text": "Haloperidol" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La quetiapina es altamente sedante, por lo que a veces se usa en dosis bajas para el insomnio."
+  },
+  {
+    "id": 119,
+    "text": "[Tipo: Comprensión] Duración del tratamiento tras un primer episodio psicótico:",
+    "options": [
+      { "key": "A", "text": "De por vida" },
+      { "key": "B", "text": "1-2 años" },
+      { "key": "C", "text": "1 mes" },
+      { "key": "D", "text": "6 meses" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Se recomienda mantener la medicación al menos uno o dos años para prevenir recaídas tempranas."
+  },
+  {
+    "id": 120,
+    "text": "[Tipo: Comprensión] Riesgo cardíaco de ciertos antipsicóticos:",
+    "options": [
+      { "key": "A", "text": "Infarto agudo" },
+      { "key": "B", "text": "Prolongación del Intervalo QT" },
+      { "key": "C", "text": "Valvulopatía" },
+      { "key": "D", "text": "Hipotensión persistente" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "3",
+    "explanation": "La prolongación del QT puede predisponer a arritmias graves (Torsades de Pointes)."
+  },
+  {
+    "id": 121,
+    "text": "[Tipo: Definición] Autor que acuñó la 'Organización Límite de la Personalidad':",
+    "options": [
+      { "key": "A", "text": "Freud" },
+      { "key": "B", "text": "Skinner" },
+      { "key": "C", "text": "Otto Kernberg" },
+      { "key": "D", "text": "Beck" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "Kernberg desarrolló la teoría estructural que define al paciente límite entre la neurosis y la psicosis."
+  },
+  {
+    "id": 122,
+    "text": "[Tipo: Definición] Característica central del Trastorno Límite (TLP):",
+    "options": [
+      { "key": "A", "text": "Miedo a los espacios abiertos" },
+      { "key": "B", "text": "Impulsividad extrema e inestabilidad" },
+      { "key": "C", "text": "Orden excesivo" },
+      { "key": "D", "text": "Falta de remordimientos" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "1",
+    "explanation": "El TLP se define por una desregulación emocional que lleva a conductas impulsivas y relaciones tormentosas."
+  },
+  {
+    "id": 123,
+    "text": "[Tipo: Análisis] Síntoma del TLP que generalmente NO responde a fármacos:",
+    "options": [
+      { "key": "A", "text": "Autolesiones" },
+      { "key": "B", "text": "Labilidad emocional" },
+      { "key": "C", "text": "Distorsiones de identidad y problemas de autoimagen" },
+      { "key": "D", "text": "Ira explosiva" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "3",
+    "explanation": "La identidad y el vacío existencial son temas psicológicos/estructurales que requieren psicoterapia, no neuroquímica."
+  },
+  {
+    "id": 124,
+    "text": "[Tipo: Comprensión] Prevalencia del TLP en la población general:",
+    "options": [
+      { "key": "A", "text": "10%" },
+      { "key": "B", "text": "1% al 2%" },
+      { "key": "C", "text": "0.1%" },
+      { "key": "D", "text": "5%" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Aunque es muy común en consultas psiquiátricas, en la población general afecta a un pequeño porcentaje."
+  },
+  {
+    "id": 125,
+    "text": "[Tipo: Análisis] Grupo de fármacos para la desregulación afectiva e ira en TLP:",
+    "options": [
+      { "key": "A", "text": "Benzodiacepinas" },
+      { "key": "B", "text": "ISRS" },
+      { "key": "C", "text": "Antidepresivos tricíclicos" },
+      { "key": "D", "text": "Estimulantes" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Los ISRS ayudan a moderar los picos de ira y la sensibilidad al rechazo en estos pacientes."
+  },
+  {
+    "id": 126,
+    "text": "[Tipo: Análisis] Fármacos de primera línea para impulsividad en TLP:",
+    "options": [
+      { "key": "A", "text": "Antipsicóticos típicos" },
+      { "key": "B", "text": "Estabilizadores del ánimo (Valproato)" },
+      { "key": "C", "text": "ISRS en dosis bajas" },
+      { "key": "D", "text": "Placebo" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Ayudan a 'aplanar' las oscilaciones de ánimo y reducir las conductas de riesgo."
+  },
+  {
+    "id": 127,
+    "text": "[Tipo: Análisis] ¿Por qué el Litio es peligroso en pacientes con TLP?",
+    "options": [
+      { "key": "A", "text": "No funciona" },
+      { "key": "B", "text": "Por su margen terapéutico estrecho y riesgo de suicidio por sobredosis" },
+      { "key": "C", "text": "Causa mucha sedación" },
+      { "key": "D", "text": "Es muy caro" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Debido a la impulsividad suicida del TLP, recetar un fármaco que es letal en dosis ligeramente superiores a las normales es un riesgo alto."
+  },
+  {
+    "id": 128,
+    "text": "[Tipo: Análisis] Tratamiento para síntomas psicóticos breves en TLP:",
+    "options": [
+      { "key": "A", "text": "Benzodiacepinas" },
+      { "key": "B", "text": "Antipsicóticos atípicos" },
+      { "key": "C", "text": "Psicoanálisis" },
+      { "key": "D", "text": "Litio" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "En momentos de crisis, dosis bajas de antipsicóticos atípicos ayudan a controlar la paranoia transitoria."
+  },
+  {
+    "id": 129,
+    "text": "[Tipo: Comprensión] Desafío relacional con pacientes TLP (idealización/devaluación):",
+    "options": [
+      { "key": "A", "text": "Conductas manipulativas" },
+      { "key": "B", "text": "Falta de lenguaje" },
+      { "key": "C", "text": "Ambivalencia y escisión" },
+      { "key": "D", "text": "Exceso de confianza" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La 'escisión' hace que vean al terapeuta como 'todo bueno' o 'todo malo', dificultando la alianza estable."
+  },
+  {
+    "id": 130,
+    "text": "[Tipo: Análisis] Predominio del TLP donde destacan las autolesiones y abuso de sustancias:",
+    "options": [
+      { "key": "A", "text": "Tipo Afectivo" },
+      { "key": "B", "text": "Tipo Impulsivo" },
+      { "key": "C", "text": "Tipo Histriónico" },
+      { "key": "D", "text": "Tipo Esquizoide" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Este subtipo se define por el paso al acto sin mediación del pensamiento (impulsividad motora)."
   }
 ]
