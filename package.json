@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "vite": "^6.3.5", 
-    "@vitejs/plugin-lit": "^2.1.0", 
+    
     "lit": "^3.3.0",
     "typescript": "~5.7.2",
     "@types/node": "^22.15.0", 
