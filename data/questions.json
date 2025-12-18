@@ -1,782 +1,288 @@
 [
-{
-"id": 1,
-"text": "[Tipo: Definición] Según el texto y el trabajo de Drew Westen, ¿cuál es un concepto central de la teoría psicodinámica contemporánea?",
-"options": [
-{"key": "A", "text": "La primacía de los factores biológicos y genéticos en la determinación de la personalidad."},
-{"key": "B", "text": "La existencia de contenidos y procesos inconscientes, incluyendo los mecanismos de defensa."},
-{"key": "C", "text": "El enfoque exclusivo en el comportamiento observable, sin considerar los procesos mentales internos."},
-{"key": "D", "text": "La idea de que la personalidad se desarrolla completamente en la adolescencia y luego permanece estática."}
-],
-"correctAnswerKey": "B",
-"difficulty": "1",
-"explanation": "El texto, basándose en Drew Westen, establece cinco temas del pensamiento psicodinámico contemporáneo. El primero y más central es 'la existencia de contenidos (por ejemplo, creencias) y procesos inconscientes y procesos, incluyendo mecanismos de defensa'. Las otras opciones son incorrectas: la A ignora el énfasis en la experiencia y los conflictos; la C describe el conductismo, no la psicodinámica; y la D contradice el énfasis en la infancia temprana y el desarrollo continuo."
-},
-{
-"id": 2,
-"text": "[Tipo: Comprensión] ¿Cuál es la principal diferencia entre el modelo topográfico y el modelo estructural de la mente propuestos por Freud?",
-"options": [
-{"key": "A", "text": "El modelo topográfico se centra en las pulsiones de vida y muerte, mientras que el estructural se enfoca en las etapas psicosexuales."},
-{"key": "B", "text": "El modelo topográfico divide la mente en consciente, preconsciente e inconsciente, mientras que el estructural la divide en Ello, Yo y Superyó."},
-{"key": "C", "text": "El modelo topográfico es exclusivo de la psicología del Yo, mientras que el estructural pertenece al psicoanálisis clásico de Freud."},
-{"key": "D", "text": "El modelo topográfico explica los sueños, mientras que el modelo estructural explica la resistencia en la terapia."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El texto explica que Freud primero enfatizó un 'modelo topográfico' (consciente, e inconsciente con sus memorias y sentimientos). 'Posteriormente, Freud superpuso el modelo topográfico y el modelo estructural. Este último, incluía al ello... el superyó... y el yo'. Esta es la distinción fundamental. La opción A mezcla conceptos; la C es incorrecta, ya que ambos son de Freud; la D limita incorrectamente el alcance de cada modelo."
-},
-{
-"id": 3,
-"text": "[Tipo: Definición] Dentro del modelo estructural de Freud, ¿cuál es la función principal del 'Yo'?",
-"options": [
-{"key": "A", "text": "Actuar como el reservorio de los impulsos y las pulsiones, siendo mayormente inconsciente."},
-{"key": "B", "text": "Internalizar las demandas externas, los principios morales y los valores sociales."},
-{"key": "C", "text": "Ser la instancia ejecutiva que media entre los impulsos del Ello y las demandas del Superyó."},
-{"key": "D", "text": "Generar mecanismos de defensa de forma exclusivamente consciente para proteger al individuo."}
-],
-"correctAnswerKey": "C",
-"difficulty": "1",
-"explanation": "El texto define al 'Yo' como 'la instancia ejecutiva que media entre los impulsos del ello y las demandas del superyó'. La opción A describe al Ello. La opción B describe al Superyó. La opción D es incorrecta porque el Yo tiene aspectos tanto conscientes como inconscientes."
-},
-{
-"id": 4,
-"text": "[Tipo: Análisis] ¿Cuál fue una de las contribuciones clave de Erik Erikson que amplió la teoría de Freud?",
-"options": [
-{"key": "A", "text": "Reforzó el enfoque puramente psicobiológico de Freud, centrando toda la personalidad en el cuerpo."},
-{"key": "B", "text": "Se centró exclusivamente en el conflicto edípico, dándole más profundidad que Freud."},
-{"key": "C", "text": "Extendió la teoría del desarrollo al ciclo de la vida completo, agregando etapas en la adolescencia y adultez."},
-{"key": "D", "text": "Desarrolló el test de asociación de palabras para validar empíricamente los constructos freudianos."}
-],
-"correctAnswerKey": "C",
-"difficulty": "2",
-"explanation": "El texto afirma que 'Erik Erikson (1963) amplió la teoría del desarrollo psicosexual al ciclo de la vida entero' y 'agregando etapas adicionales que ocurren durante la adolescencia y adultez tardía'. Esto contrasta con A y B. La opción D fue una contribución de Carl Jung, no de Erikson."
-},
-{
-"id": 5,
-"text": "[Tipo: Definición] Según la tabla de mecanismos de defensa, ¿cómo se define la 'Formación reactiva'?",
-"options": [
-{"key": "A", "text": "Atribuir a otros los propios pensamientos, impulsos o deseos inaceptables."},
-{"key": "B", "text": "Reaccionar a un conflicto de un modo inmaduro, típico de una etapa de desarrollo anterior."},
-{"key": "C", "text": "Defenderse de impulsos perturbadores reaccionando de una manera que contradice dicho impulso."},
-{"key": "D", "text": "Redirigir impulsos inaceptables a formas de comportamiento adaptativas y aceptables."}
-],
-"correctAnswerKey": "C",
-"difficulty": "1",
-"explanation": "La Tabla 3.1 define la 'Formación reactiva' como: 'Defenderse de impulsos perturbadores o inaceptables y pensamientos reaccionando de una manera que contradice el impulso angustiante'. La opción A es 'Proyección', la B es 'Regresión' y la D es 'Sublimación'."
-},
-{
-"id": 6,
-"text": "[Tipo: Comprensión] ¿Cuál es la motivación humana más central según la teoría de las relaciones objetales, en contraste con la visión de Freud?",
-"options": [
-{"key": "A", "text": "La búsqueda constante de satisfacer pulsiones sexuales y agresivas para alcanzar el placer."},
-{"key": "B", "text": "El deseo de alcanzar la autorrealización a través del desarrollo de funciones cognitivas independientes."},
-{"key": "C", "text": "La necesidad de mantener un equilibrio homeostático entre las demandas del Ello y el Superyó."},
-{"key": "D", "text": "El intento constante de alcanzar relaciones cercanas e íntimas con otros."}
-],
-"correctAnswerKey": "D",
-"difficulty": "2",
-"explanation": "El texto contrasta la visión de Freud (opción A) con la de los teóricos de las relaciones objetales, quienes 'supusieron un instinto más social... en el que la motivación más central de los humanos es intentar constantemente alcanzar relaciones cercanas e íntimas'. Las opciones B y C son conceptos relacionados pero no la motivación central de esta teoría."
-},
-{
-"id": 7,
-"text": "[Tipo: Definición] De acuerdo con Donald Winnicott, ¿qué es la 'crianza suficientemente buena'?",
-"options": [
-{"key": "A", "text": "La capacidad de la madre para satisfacer inmediatamente todas las necesidades del infante, evitando cualquier frustración."},
-{"key": "B", "text": "Un estilo de crianza que ignora las necesidades del niño para fomentar su independencia temprana."},
-{"key": "C", "text": "La habilidad de la madre para ser suficientemente atenta y sensible a las necesidades del infante, creando un ambiente contenedor."},
-{"key": "D", "text": "Un método que se enfoca en enseñar al niño a reprimir sus emociones de enojo y frustración."}
-],
-"correctAnswerKey": "C",
-"difficulty": "2",
-"explanation": "Winnicott, según el texto, 'enfatizó la importancia de la crianza suficientemente buena - la habilidad de la madre para ser lo suficientemente atenta y sensible frente a necesidades del infante y crear un ambiente contenedor'. La opción A es un ideal perfeccionista que Winnicott no proponía, mientras que B y D describen una crianza patológica, lo contrario de lo que él defendía."
-},
-{
-"id": 8,
-"text": "[Tipo: Definición] En la psicología del self de Heinz Kohut, ¿cuál es la motivación básica de los seres humanos?",
-"options": [
-{"key": "A", "text": "Resolver los conflictos edípicos de la infancia temprana."},
-{"key": "B", "text": "Satisfacer las pulsiones sexuales y agresivas."},
-{"key": "C", "text": "Mantener la autoestima y un sentido estable del self."},
-{"key": "D", "text": "Lograr la independencia total de los demás."}
-],
-"correctAnswerKey": "C",
-"difficulty": "2",
-"explanation": "El texto afirma que para los psicólogos del self, 'la motivación básica de los seres humanos no es satisfacer las pulsiones sexuales y agresivas, sino mantener su autoestima'. Kohut fue el fundador de esta escuela, y su trabajo se centró en el desarrollo de un 'sentido estable del self'."
-},
-{
-"id": 9,
-"text": "[Tipo: Definición] En el modelo de Heinz Kohut, ¿cuál es la función del 'objeto del self reflejante' (mirroring)?",
-"options": [
-{"key": "A", "text": "Ser un modelo a seguir con el cual el niño se identifica para desarrollar metas personales."},
-{"key": "B", "text": "Ser cuidadores que tranquilizan y alientan, fortaleciendo así la autoestima del niño."},
-{"key": "C", "text": "Proveer al niño una experiencia de semejanza y conexión afectiva básica."},
-{"key": "D", "text": "Imponer límites y frustraciones para que el niño aprenda a tolerar la realidad."}
-],
-"correctAnswerKey": "B",
-"difficulty": "1",
-"explanation": "El texto define el 'objeto reflejante' como aquel en el que 'los cuidadores son tranquilizadores y alentadores, por consiguiente fortalecedores de la autoestima del niño'. La opción A describe el 'objeto de la imago parental idealizada', y la C describe el 'objeto del self alter-ego'."
-},
-{
-"id": 10,
-"text": "[Tipo: Comprensión] ¿Cuál fue el principal cambio que introdujo Harry Stack Sullivan en la psicoterapia interpersonal, en contraste con Freud?",
-"options": [
-{"key": "A", "text": "Reemplazó la exploración de las relaciones interpersonales por un enfoque en las fantasías inconscientes."},
-{"key": "B", "text": "Mantuvo la asociación libre como técnica central, pero la aplicó a los problemas actuales."},
-{"key": "C", "text": "Supuso que la personalidad se desarrolla desde las relaciones interpersonales, en lugar de la lucha entre instancias psíquicas internas."},
-{"key": "D", "text": "Se centró en los factores culturales de la neurosis, ignorando completamente las relaciones humanas."}
-],
-"correctAnswerKey": "C",
-"difficulty": "2",
-"explanation": "El texto establece un claro contraste: 'En contraste con la premisa de Freud de que la personalidad es formada ante la lucha entre diferentes instancias psíquicas, Sullivan supuso que la personalidad se desarrolla desde las relaciones interpersonales con otros'. Las otras opciones invierten la verdad o son incorrectas."
-},
-{
-"id": 11,
-"text": "[Tipo: Análisis] La teoría relacional representa un cambio fundamental en la psicología al pasar de una 'psicología de una persona' a una 'psicología de dos personas'. ¿Qué implica este cambio?",
-"options": [
-{"key": "A", "text": "Que la terapia se realiza siempre en pareja y no de forma individual."},
-{"key": "B", "text": "Que el terapeuta debe revelar toda su vida personal para crear una relación simétrica."},
-{"key": "C", "text": "Que la transferencia y contratransferencia son resultado de la influencia mutua, no solo de la proyección del paciente."},
-{"key": "D", "text": "Que el foco de la terapia es exclusivamente la relación del paciente con sus padres."}
-],
-"correctAnswerKey": "C",
-"difficulty": "3",
-"explanation": "El texto explica que la teoría relacional representa 'el cambio de la psicología de una persona a la psicología de dos personas' y que, en este marco, 'La transferencia y la contratransferencia son percibidas como resultantes de la influencia mutua del paciente y el terapeuta en el otro más que exclusivamente en la respuesta del terapeuta a las reacciones transferenciales del paciente'. Esto captura la esencia de la psicología de dos personas. Las otras opciones son interpretaciones incorrectas o extremas."
-},
-{
-"id": 12,
-"text": "[Tipo: Definición] En el modelo de Malan para la psicoterapia de corto plazo, ¿qué componentes forman el 'triángulo del conflicto'?",
-"options": [
-{"key": "A", "text": "El terapeuta, las relaciones actuales y las relaciones pasadas."},
-{"key": "B", "text": "El Ello, el Yo y el Superyó."},
-{"key": "C", "text": "La defensa, la ansiedad y el impulso oculto."},
-{"key": "D", "text": "El deseo, la respuesta del otro y la respuesta del self."}
-],
-"correctAnswerKey": "C",
-"difficulty": "1",
-"explanation": "Según el texto, 'El primer triángulo fue llamado el triángulo del conflicto y consistió en la defensa, la ansiedad y el impulso oculto ante el cual el paciente se defiende'. La opción A corresponde al 'triángulo de la persona' o 'del insight'. La D corresponde a los componentes del CCRT."
-},
-{
-"id": 13,
-"text": "[Tipo: Definición] ¿Qué es el Tema de los Conflictos Relacionales Nucleares (CCRT) en la psicoterapia de apoyo-expresiva (SET)?",
-"options": [
-{"key": "A", "text": "Un método para identificar los mecanismos de defensa primarios del paciente."},
-{"key": "B", "text": "Un modelo y un instrumento para capturar el guion subyacente a las múltiples relaciones del paciente."},
-{"key": "C", "text": "Una técnica para medir la fuerza de la alianza terapéutica en cada sesión."},
-{"key": "D", "text": "Un conjunto de interpretaciones estándar que se aplican a todos los pacientes con depresión."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El texto describe el CCRT como 'un modelo teórico, así como un instrumento de medición clínica, diseñado para ayudar a los terapeutas e investigadores a alcanzar una comprensión más profunda de los problemas centrales del paciente'. Su base es 'capturar el esquema o el guión que subyace a las múltiples relaciones del paciente'."
-},
-{
-"id": 14,
-"text": "[Tipo: Comprensión] ¿Qué hallazgo sobre la coincidencia étnico-racial entre terapeuta y paciente se menciona en el metaanálisis citado?",
-"options": [
-{"key": "A", "text": "Los pacientes no muestran ninguna preferencia por terapeutas de su misma etnia."},
-{"key": "B", "text": "La coincidencia étnico-racial garantiza mejores resultados en el tratamiento en casi todos los casos."},
-{"key": "C", "text": "Los pacientes muestran una preferencia y perciben más positivamente a los terapeutas de su etnia, pero esto no se traduce en un beneficio significativo en los resultados."},
-{"key": "D", "text": "La coincidencia es beneficiosa para los resultados, pero solo en terapias psicodinámicas de largo plazo."}
-],
-"correctAnswerKey": "C",
-"difficulty": "2",
-"explanation": "El texto resume un metaanálisis que mostró que los pacientes exhiben una 'preferencia moderadamente fuerte' y 'tienden a percibir a los terapeutas de su misma raza/etnia de alguna manera más positivamente'. Sin embargo, 'no se ha encontrado casi ningún beneficio sobre los resultados del tratamiento debido a la coincidencia'."
-},
-{
-"id": 15,
-"text": "[Tipo: Comprensión] Según la conceptualización psicodinámica contemporánea de la depresión, ¿cómo se origina este trastorno?",
-"options": [
-{"key": "A", "text": "Principalmente por un desequilibrio químico cerebral sin causas psicológicas subyacentes."},
-{"key": "B", "text": "A partir de una ira, originada por una pérdida o frustración en apegos tempranos, que se vuelve contra el self."},
-{"key": "C", "text": "Como resultado de una fijación en la etapa oral del desarrollo psicosexual."},
-{"key": "D", "text": "Debido a un uso excesivo de defensas maduras como la sublimación y el humor."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "La conceptualización descrita integra las ideas de Klein, Freud y Kohut, y concluye que 'las perturbaciones en apegos tempranos y pérdida percibida o real del objeto amado lleva a una frustración o ira que se vuelve contra el self. La ira internalizada se manifiesta en autocrítica... y una baja autoestima'."
-},
-{
-"id": 16,
-"text": "[Tipo: Análisis] ¿Cuál es la principal diferencia entre el trastorno obsesivo-compulsivo (TOC) y el trastorno obsesivo-compulsivo de la personalidad (TOCP) según el texto?",
-"options": [
-{"key": "A", "text": "El TOC se caracteriza por compulsiones intrusivas, mientras que el TOCP es un patrón generalizado de perfeccionismo y control."},
-{"key": "B", "text": "El TOCP siempre incluye obsesiones y compulsiones, mientras que el TOC no necesariamente."},
-{"key": "C", "text": "El TOC es un trastorno de la infancia, mientras que el TOCP solo se diagnostica en la adultez tardía."},
-{"key": "D", "text": "El TOC se trata con psicoterapia psicodinámica, mientras que el TOCP solo responde a la medicación."}
-],
-"correctAnswerKey": "A",
-"difficulty": "3",
-"explanation": "El texto distingue claramente los dos: el TOC se caracteriza por 'obsesiones y compulsiones persistentes' que son 'incontrolables e intrusivas'. En cambio, el TOCP 'no se encuentra caracterizado por compulsiones intrusivas, obsesivas y repetitivas... sino por un patrón de comportamiento duradero y generalizado que conlleva una preocupación excesiva por el control y el perfeccionismo'."
-},
-{
-"id": 17,
-"text": "[Tipo: Comprensión] En el contexto del miedo al abandono y el Trastorno Límite de la Personalidad (TLP), ¿qué es 'mentalizar'?",
-"options": [
-{"key": "A", "text": "La capacidad de reprimir todos los sentimientos negativos para mantener la estabilidad."},
-{"key": "B", "text": "Un mecanismo de defensa primitivo que consiste en ver a las personas como totalmente buenas o totalmente malas."},
-{"key": "C", "text": "La habilidad de reflexionar sobre las propias necesidades y sentimientos y entender que las conductas de otros están guiadas por sus sentimientos."},
-{"key": "D", "text": "Un proceso de idealización del terapeuta para crear una dependencia segura."}
-],
-"correctAnswerKey": "C",
-"difficulty": "2",
-"explanation": "El texto define el objetivo de ayudar a estos pacientes a 'aprender cómo 'mentalizar' - reflexionar sobre sus propias necesidades y sentimientos y entender cómo las conductas de los otros son guiadas por sus sentimientos y pensamientos (Bateman & Fonagy, 2004)'. Las otras opciones describen conceptos distintos, como la escisión (B) o la idealización (D)."
-},
-{
-"id": 18,
-"text": "[Tipo: Análisis] ¿Cómo contrastan las visiones de Kernberg y Kohut sobre el narcisismo?",
-"options": [
-{"key": "A", "text": "Kernberg lo ve como una fase normal del desarrollo, mientras que Kohut lo considera siempre patológico."},
-{"key": "B", "text": "Kernberg se enfoca en la ira y el resentimiento, mientras que Kohut se centra en la experiencia de soledad y vulnerabilidad al rechazo."},
-{"key": "C", "text": "Kernberg propone un tratamiento basado en la gratificación de las necesidades narcisistas, y Kohut en la confrontación directa de la grandiosidad."},
-{"key": "D", "text": "Kernberg cree que el narcisismo es puramente genético, mientras que Kohut lo atribuye exclusivamente al entorno."}
-],
-"correctAnswerKey": "B",
-"difficulty": "3",
-"explanation": "El texto presenta un claro contraste: 'Si bien Kernberg hizo énfasis en la ira, el resentimiento y los sentimientos de derecho, Kohut... se centró en la dolorosa experiencia emocional de soledad, tristeza y vulnerabilidad al rechazo que es compensada con una exagerada auto-preocupación y sentimientos de grandiosidad'."
-},
-{
-"id": 19,
-"text": "[Tipo: Comprensión] Según la formulación psicodinámica del trastorno de pánico, ¿cuál es la función defensiva del ataque de pánico?",
-"options": [
-{"key": "A", "text": "Es una reacción directa a una amenaza real y externa en el entorno del paciente."},
-{"key": "B", "text": "Es una defensa contra la ira reprimida, que se percibe como destructiva para una relación de dependencia."},
-{"key": "C", "text": "Es un intento de atraer la atención y el cuidado de los demás de manera consciente."},
-{"key": "D", "text": "Es el resultado de una falla en el sistema neurobiológico sin un significado psicológico subyacente."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El texto, basándose en Milrod et al., explica que los pacientes con pánico son propensos a desarrollar 'enojo y una dependencia temerosa'. El miedo a que esta ira destruya la relación lleva a una agresividad conflictiva. 'El estallido de la ansiedad y el miedo en el ataque de pánico son una reacción defensiva contra la ira reprimida, mientras sostiene su postura dependiente'."
-},
-{
-"id": 20,
-"text": "[Tipo: Definición] En el tratamiento del trauma, ¿cuál es la tarea principal de la segunda fase de la terapia según Herman (1997)?",
-"options": [
-{"key": "A", "text": "Restablecer la sensación de seguridad y control del paciente sobre su cuerpo y ambiente."},
-{"key": "B", "text": "Reconectar con la vida cotidiana y establecer nuevas relaciones significativas."},
-{"key": "C", "text": "El recuerdo y el duelo, superando el trauma a través de la evocación y reconstrucción de la historia."},
-{"key": "D", "text": "Aprender técnicas de evitación emocional para no experimentar el dolor del trauma."}
-],
-"correctAnswerKey": "C",
-"difficulty": "1",
-"explanation": "El texto describe las tres fases del tratamiento del trauma. La primera fase es la seguridad (opción A). La tercera es la reconexión (opción B). 'La tarea de la segunda fase es la de recuerdo y duelo. En esta fase, el terapeuta y el paciente superan los traumas a través de la evocación repetida del recuerdo traumático'."
-},
-{
-"id": 21,
-"text": "[Tipo: Definición] ¿Cuáles son los tres componentes de la alianza terapéutica según el modelo panteórico de Bordin (1979)?",
-"options": [
-{"key": "A", "text": "Transferencia, contratransferencia y relación real."},
-{"key": "B", "text": "Acuerdo sobre los objetivos, acuerdo sobre las tareas y vínculo emocional."},
-{"key": "C", "text": "Empatía, aceptación incondicional y congruencia."},
-{"key": "D", "text": "Insight, catarsis y elaboración."}
-],
-"correctAnswerKey": "B",
-"difficulty": "1",
-"explanation": "El texto describe el modelo de Bordin explícitamente: 'Bordin (1979) conceptualizó la alianza, como compuesta por tres componentes: acuerdo sobre los objetivos, acuerdo sobre las tareas y vínculo emocional'. La opción A describe las relaciones identificadas por Greenson. La C son las condiciones de Rogers. La D son procesos terapéuticos."
-},
-{
-"id": 22,
-"text": "[Tipo: Análisis] ¿Cuál es una diferencia clave en el rol del terapeuta en la psicoterapia psicodinámica de corto plazo (STDP) en comparación con la de largo plazo?",
-"options": [
-{"key": "A", "text": "En la STDP, el terapeuta es completamente pasivo y no directivo."},
-{"key": "B", "text": "En la STDP, el terapeuta adopta una postura más activa, define un foco y formula metas específicas."},
-{"key": "C", "text": "En la STDP, el terapeuta evita cualquier tipo de interpretación para no generar resistencia."},
-{"key": "D", "text": "En la STDP, se elimina por completo el foco en la transferencia y la contratransferencia."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El texto contrasta los modelos de largo plazo con la psicoterapia a corto plazo, donde 'el terapeuta toma en general una posición más activa, define con el paciente un foco para la terapia y formula metas específicas que son alcanzables en un período corto de tiempo'. Las otras opciones son incorrectas; la STDP usa interpretaciones y se enfoca en la transferencia."
-},
-{
-"id": 23,
-"text": "[Tipo: Definición] Según la conceptualización de Alexander y French (1946), ¿qué es una 'experiencia emocional correctiva'?",
-"options": [
-{"key": "A", "text": "Un momento de insight intelectual sin ningún componente emocional."},
-{"key": "B", "text": "Re-experimentar un viejo e irresuelto conflicto, pero con un nuevo final, en un entorno seguro."},
-{"key": "C", "text": "La evitación sistemática de cualquier conflicto emocional dentro de la sesión de terapia."},
-{"key": "D", "text": "Una técnica en la que el terapeuta corrige explícitamente las emociones 'incorrectas' del paciente."}
-],
-"correctAnswerKey": "B",
-"difficulty": "1",
-"explanation": "El texto cita directamente la definición original de Alexander & French: 're-experimentar el viejo e irresuelto conflicto, pero con un nuevo final'. La idea es procesar conflictos dolorosos en un 'entorno seguro y empático', lo que invalida las demás opciones."
-},
-{
-"id": 24,
-"text": "[Tipo: Comprensión] ¿Cuál es el propósito de la 'fase intermedia' en la formulación práctica de la terapia psicodinámica descrita en el texto?",
-"options": [
-{"key": "A", "text": "Establecer el foco del tratamiento y los objetivos específicos."},
-{"key": "B", "text": "Evaluar el problema central del paciente y planificar el tratamiento."},
-{"key": "C", "text": "Explorar las reacciones a la terminación y reflexionar sobre el final del tratamiento."},
-{"key": "D", "text": "Crear una narrativa comprensiva de la vida del paciente para desafiar la narrativa antigua y fomentar el cambio."}
-],
-"correctAnswerKey": "D",
-"difficulty": "2",
-"explanation": "El texto describe la fase intermedia como el momento en que 'el terapeuta psicodinámico y el paciente, crean una narrativa comprensiva del curso de la vida del paciente... Crear una narrativa nueva desafía la narrativa antigua, disminuye los sentimientos de culpa... y alienta al paciente a cambiar'. Las opciones A y B corresponden a la 'fase de apertura', y la C a la 'fase de cierre'."
-},
-{
-"id": 25,
-"text": "[Tipo: Comprensión] Según la evidencia empírica citada, ¿cuál de las siguientes terapias psicodinámicas ha demostrado ser eficaz para el Trastorno Límite de la Personalidad (TLP)?",
-"options": [
-{"key": "A", "text": "La terapia focalizada en la transferencia (TFP) y la terapia basada en la mentalización (TBM)."},
-{"key": "B", "text": "Únicamente la terapia de juego simbólico, ya que el TLP se origina en la infancia."},
-{"key": "C", "text": "La hipnoterapia y la desensibilización sistemática, que son enfoques psicodinámicos."},
-{"key": "D", "text": "El texto indica que no existe evidencia empírica para el tratamiento psicodinámico del TLP."}
-],
-"correctAnswerKey": "A",
-"difficulty": "1",
-"explanation": "El texto menciona explícitamente dos formas de tratamiento psicodinámico para el TLP que cuentan con respaldo empírico: 'El primero es la terapia focalizada en la transferencia (Yeomans, Clarkin y Kernberg, 2015)' y 'La segunda forma... es la terapia basada en la mentalización (Bateman y Fonagy, 2004)'. La opción D es falsa, y las terapias en B y C no se describen como los principales tratamientos psicodinámicos para el TLP en el texto."
-},
-{
-"id": 26,
-"text": "[Tipo: Análisis] El autor menciona que conceptos como el proceso primario/secundario están siendo reformulados por Daniel Kahneman como Sistema 1 y Sistema 2. ¿Qué implica esta conexión?",
-"options": [
-{"key": "A", "text": "Que la psicología cognitiva moderna ha refutado completamente los conceptos psicoanalíticos."},
-{"key": "B", "text": "Que los conceptos centrales del psicoanálisis están siendo validados y renombrados dentro de la psicología científica contemporánea."},
-{"key": "C", "text": "Que el psicoanálisis y la psicología cognitiva son campos completamente incompatibles e irreconciliables."},
-{"key": "D", "text": "Que Kahneman adoptó el psicoanálisis como su principal marco teórico."}
-],
-"correctAnswerKey": "B",
-"difficulty": "3",
-"explanation": "El texto señala que conceptos psicoanalíticos, como el de proceso primario (rápido, instintivo, emocional) y secundario (deliberado, lógico), se están 'redescubriendo y reformulando' por figuras como Kahneman. Esto sugiere una convergencia y validación, no una refutación (A) o incompatibilidad (C). La opción D es una exageración no respaldada por el texto."
-},
-{
-"id": 27,
-"text": "[Tipo: Comprensión] ¿Cuál es uno de los principales desafíos futuros para la terapia psicodinámica que se menciona en las 'Direcciones futuras'?",
-"options": [
-{"key": "A", "text": "Un exceso de financiamiento que dificulta la selección de proyectos de investigación."},
-{"key": "B", "text": "La drástica disminución de las fuentes de financiamiento, especialmente en los Estados Unidos."},
-{"key": "C", "text": "La falta de interés de los pacientes en recibir este tipo de terapia."},
-{"key": "D", "text": "La ausencia total de evidencia empírica que apoye su eficacia."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El texto identifica como un 'desafío clave la drástica disminución de las fuentes de financiamiento, especialmente en los Estados Unidos', lo que dificultará la realización de ensayos clínicos. La opción A es lo contrario a la realidad descrita. C y D son refutadas por el resto del capítulo, que muestra la vitalidad y la evidencia creciente de la terapia."
-},
-{
-"id": 28,
-"text": "[Tipo: Comprensión] ¿Qué papel juega el 'apego desorganizado o desorientado' documentado por Main y Solomon?",
-"options": [
-{"key": "A", "text": "Es el patrón de apego más saludable, que conduce a la independencia temprana."},
-{"key": "B", "text": "Es un cuarto patrón de apego que se añadió a los tres originales de Ainsworth."},
-{"key": "C", "text": "Es un tipo de apego que solo se observa en adultos y no en infantes."},
-{"key": "D", "text": "Fue el término original de Bowlby para todos los tipos de apego inseguro."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El texto explica que Ainsworth documentó tres patrones de apego (seguro, inseguro-evitativo, inseguro-ambivalente). Luego añade: 'Más tarde, Main y Solomon (1986) documentaron un cuarto patrón de apego: apego desorganizado o desorientado'. Las otras opciones son incorrectas."
-},
-{
-"id": 29,
-"text": "[Tipo: Comprensión] ¿Cuál es el objetivo principal del tratamiento psicodinámico para un paciente con baja autoestima (narcisismo), según el texto?",
-"options": [
-{"key": "A", "text": "Eliminar por completo la autoestima para fomentar la humildad."},
-{"key": "B", "text": "Reforzar la grandiosidad del paciente para que se sienta más seguro."},
-{"key": "C", "text": "Ayudar al paciente a desarrollar una autoestima más fuerte y un autoconcepto más preciso."},
-{"key": "D", "text": "Enseñar al paciente a depender exclusivamente de la aprobación externa para su valía."}
-],
-"correctAnswerKey": "C",
-"difficulty": "2",
-"explanation": "El texto afirma que 'El objetivo de la terapia psicodinámica es ayudar al paciente a desarrollar una autoestima más fuerte, un autoconcepto más preciso, y un incremento de sus habilidades para tolerar las frustraciones y decepciones'. Las otras opciones describen enfoques no terapéuticos o contraproducentes."
-},
-{
-"id": 30,
-"text": "[Tipo: Análisis] ¿Qué mecanismo de cambio en la terapia psicodinámica implica mejorar la capacidad de comprender los estados mentales propios y de los otros y cómo estos subyacen a las conductas?",
-"options": [
-{"key": "A", "text": "Calidad de las relaciones objetales."},
-{"key": "B", "text": "Insight o auto-comprensión."},
-{"key": "C", "text": "Función reflexiva."},
-{"key": "D", "text": "Experiencia emocional correctiva."}
-],
-"correctAnswerKey": "C",
-"difficulty": "3",
-"explanation": "El texto define la 'Función reflexiva' como 'la capacidad de comprender los estados mentales de uno mismo y de los otros, y para entender cómo estos estados mentales subyacen a las conductas (Fonagy et al., 2002)'. Aunque relacionado con el insight (B), la función reflexiva es un constructo específico sobre la mentalización. La calidad de las relaciones objetales (A) y la experiencia emocional correctiva (D) son otros mecanismos de cambio distintos."
-},
-{
-"id": 31,
-"text": "[Tipo: Definición] Según la definición formal ofrecida por el autor, ¿qué es la psicoterapia existencial?",
-"options": [
-{"key": "A", "text": "Una terapia centrada en corregir pensamientos irracionales y conductas desadaptativas."},
-{"key": "B", "text": "Un enfoque que utiliza técnicas de hipnosis para acceder a recuerdos reprimidos."},
-{"key": "C", "text": "Una aproximación dinámica a la terapia que se centra en las preocupaciones enraizadas en la existencia del individuo."},
-{"key": "D", "text": "Un método para explorar la historia familiar y los patrones transgeneracionales."}
-],
-"correctAnswerKey": "C",
-"difficulty": "1",
-"explanation": "El autor, después de discutir la dificultad de definirla, ofrece una definición formal clara: 'la psicoterapia existencial es una aproximación dinámica a la terapia que se centra en las preocupaciones que están enraizadas en la existencia del individuo'. Las otras opciones describen otros enfoques terapéuticos (cognitivo-conductual, hipnoterapia, sistémico)."
-},
-{
-"id": 32,
-"text": "[Tipo: Comprensión] ¿Por qué el autor considera que la psicoterapia existencial es una terapia 'dinámica'?",
-"options": [
-{"key": "A", "text": "Porque es enérgica y siempre está en movimiento, en contraste con terapias lentas o pasivas."},
-{"key": "B", "text": "Porque se basa en un modelo que plantea la existencia de fuerzas en conflicto dentro del individuo en varios niveles de conciencia."},
-{"key": "C", "text": "Porque fue desarrollada por los mismos discípulos de Freud que crearon la psicodinámica."},
-{"key": "D", "text": "Porque utiliza la 'dinámica de grupo' como su principal herramienta terapéutica."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El texto aclara el uso técnico del término 'dinámico', afirmando que no se refiere a su sentido vulgar (A). Lo define como un 'modelo que plantea que existen fuerzas en conflicto dentro del individuo y que el pensamiento, la emoción y la conducta... son el resultado de estas fuerzas en conflicto... en varios niveles de conciencia'. La terapia existencial encaja en esta descripción."
-},
-{
-"id": 33,
-"text": "[Tipo: Análisis] ¿Qué diferencia fundamentalmente a la psicoterapia existencial de otras terapias dinámicas como el psicoanálisis?",
-"options": [
-{"key": "A", "text": "La psicoterapia existencial rechaza por completo la idea de un inconsciente."},
-{"key": "B", "text": "El contenido del conflicto interno se deriva de pulsiones biológicas reprimidas en el psicoanálisis, mientras que en la existencial se deriva de la confrontación con los 'datos de la existencia'."},
-{"key": "C", "text": "La psicoterapia existencial es siempre de corto plazo, mientras que el psicoanálisis es siempre de largo plazo."},
-{"key": "D", "text": "El psicoanálisis se enfoca en los sueños, y la terapia existencial los ignora por completo."}
-],
-"correctAnswerKey": "B",
-"difficulty": "3",
-"explanation": "El autor afirma que aunque la terapia existencial es dinámica, se separa de las otras en la pregunta sobre '¿cuál es el contenido de esta lucha interna?'. Mientras el psicoanálisis se enfoca en pulsiones e historia personal, la terapia existencial 'pone de relieve un conflicto que fluye de la confrontación del individuo con los datos de la existencia' (muerte, libertad, soledad, sinsentido)."
-},
-{
-"id": 34,
-"text": "[Tipo: Definición] De las cuatro 'preocupaciones supremas', ¿cuál se describe como el conflicto entre la conciencia de la inevitabilidad de la muerte y el deseo de continuar existiendo?",
-"options": [
-{"key": "A", "text": "Libertad."},
-{"key": "B", "text": "Muerte."},
-{"key": "C", "text": "Aislamiento existencial."},
-{"key": "D", "text": "Sinsentido."}
-],
-"correctAnswerKey": "B",
-"difficulty": "1",
-"explanation": "El texto define explícitamente el conflicto asociado con la Muerte: 'un conflicto existencial central lo constituye la tensión entre la conciencia de la inevitabilidad de la muerte y el deseo de continuar existiendo'."
-},
-{
-"id": 35,
-"text": "[Tipo: Comprensión] En el contexto existencial, ¿a qué se refiere la 'libertad' y por qué está 'ribeteada por el terror'?",
-"options": [
-{"key": "A", "text": "Se refiere a la libertad política y social, y es terrorífica porque implica responsabilidades cívicas."},
-{"key": "B", "text": "Se refiere a la ausencia de estructura externa y a que el individuo es enteramente responsable de su propio mundo, lo que implica un vacío subyacente."},
-{"key": "C", "text": "Se refiere a la libertad de las pulsiones del ello, y es terrorífica porque el superyó siempre castiga esta libertad."},
-{"key": "D", "text": "Se refiere a la libertad económica, y es terrorífica porque la riqueza puede perderse."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El texto aclara que en su sentido existencial, '«libertad» se refiere a la ausencia de estructura externa'. La implicación terrorífica es que 'bajo nosotros no hay terreno alguno, esto es, nada, el vacío, el abismo'. El individuo es 'enteramente responsable' de crear su propio mundo."
-},
-{
-"id": 36,
-"text": "[Tipo: Análisis] ¿Cuál es la diferencia clave entre el 'aislamiento existencial' y el aislamiento interpersonal o intrapersonal?",
-"options": [
-{"key": "A", "text": "El aislamiento existencial es un síntoma de patología severa, mientras que los otros son normales."},
-{"key": "B", "text": "El aislamiento existencial se puede resolver completamente con una buena relación de pareja, a diferencia de los otros."},
-{"key": "C", "text": "El aislamiento existencial es fundamental e insalvable, un vacío entre uno y los demás que persiste incluso en la mayor cercanía, mientras que los otros tipos de aislamiento son contingentes."},
-{"key": "D", "text": "El aislamiento existencial se refiere a estar físicamente solo, mientras que el interpersonal se refiere a sentirse solo en compañía."}
-],
-"correctAnswerKey": "C",
-"difficulty": "3",
-"explanation": "El autor distingue claramente: no es el aislamiento interpersonal (soledad) ni el intrapersonal (partes de uno mismo), sino 'un aislamiento fundamental... que anula todas las demás formas de aislamiento. No importa lo próximos que estemos... permanece un vacío final, insalvable'. Es una condición inherente a la existencia, no una contingencia."
-},
-{
-"id": 37,
-"text": "[Tipo: Comprensión] ¿Cuál es el conflicto dinámico existencial que surge de la preocupación por el 'sinsentido'?",
-"options": [
-{"key": "A", "text": "La tensión entre seguir un plan de vida preordenado por la sociedad y el deseo de rebelarse."},
-{"key": "B", "text": "El choque entre una criatura que busca significado y un universo que no lo tiene preordenado."},
-{"key": "C", "text": "El conflicto entre el significado que uno encuentra en el trabajo y el que encuentra en la familia."},
-{"key": "D", "text": "El dilema de si el significado de la vida es puramente espiritual o material."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El texto plantea el dilema directamente: 'Si debemos morir, si constituimos nuestro propio mundo, si cada uno de nosotros está en última instancia solo en un universo indiferente, entonces ¿qué significado tiene la vida?... Este conflicto dinámico existencial surge del dilema de una criatura en busca del significado, que es lanzada a un universo que no tiene significado'."
-},
-{
-"id": 38,
-"text": "[Tipo: Análisis] ¿Por qué la universalidad de las preocupaciones existenciales presenta un desafío para definir la psicopatología?",
-"options": [
-{"key": "A", "text": "Porque si todos experimentan estas tensiones, entonces nadie es verdaderamente 'normal' y la psicopatología es una construcción social."},
-{"key": "B", "text": "Porque implica que la diferencia entre 'normalidad' y 'patología' es cuantitativa (el modo de afrontar el estrés) y no cualitativa (la presencia o ausencia del estrés)."},
-{"key": "C", "text": "Porque sugiere que la psicopatología no existe y que todo el sufrimiento humano es filosófico."},
-{"key": "D", "text": "Porque solo las personas con predisposición genética desarrollan psicopatología a partir de estas preocupaciones."}
-],
-"correctAnswerKey": "B",
-"difficulty": "3",
-"explanation": "El texto argumenta que 'la universalidad del estrés es una de las principales razones por la que los especialistas encuentran tan difícil el intento de definir y describir la normalidad: la diferencia entre normalidad y patología es cuantitativa, no cualitativa'. La psicopatología surge de la interacción entre 'el estrés ubicuo y los mecanismos de defensa del individuo', no de la mera presencia del estrés."
-},
-{
-"id": 39,
-"text": "[Tipo: Comprensión] ¿A qué dilema se refiere el autor con la cita de Don Quijote: '¿Qué te gustaría tener, una prudente locura o una tonta sensatez?'?",
-"options": [
-{"key": "A", "text": "La elección entre una terapia corta y una larga."},
-{"key": "B", "text": "La elección entre aceptar la dolorosa 'verdad ansiosa' de la existencia o refugiarse en el 'rechazo'."},
-{"key": "C", "text": "La decisión de tomar medicación psiquiátrica o hacer psicoterapia."},
-{"key": "D", "text": "La disyuntiva entre ser un terapeuta racional o uno emocional."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El autor presenta este dilema en el contexto de por qué los terapeutas evitan los temas existenciales. Plantea que 'hay tan sólo dos vías para tratar con los brutales hechos de la vida —la verdad ansiosa y el rechazo—'. La cita de Cervantes ilustra esta elección entre enfrentar una verdad difícil (prudente locura) o vivir en una negación cómoda (tonta sensatez)."
-},
-{
-"id": 40,
-"text": "[Tipo: Definición] ¿Qué son las 'situaciones límite' o de frontera en el contexto existencial?",
-"options": [
-{"key": "A", "text": "Conflictos interpersonales con personas que viven en fronteras geográficas."},
-{"key": "B", "text": "Los límites de la alianza terapéutica que el terapeuta no debe cruzar."},
-{"key": "C", "text": "Experiencias apremiantes que catalizan la reflexión sobre las preocupaciones supremas, como la confrontación con la muerte."},
-{"key": "D", "text": "Diagnósticos que se encuentran en el límite entre neurosis y psicosis."}
-],
-"correctAnswerKey": "C",
-"difficulty": "1",
-"explanation": "El texto las define como 'ciertas experiencias apremiantes. Estas situaciones «límite», o frontera... incluyen experiencias tales como la confrontación con la propia muerte, alguna decisión irreversible de la mayor importancia o el desmoronamiento de algún esquema fundamental que proporciona sentido'."
-},
-{
-"id": 41,
-"text": "[Tipo: Comprensión] ¿Por qué la historia de Viktor Frankl sobre el gato y la mantequilla es ilustrativa de los desafíos de la investigación empírica en psicoterapia existencial?",
-"options": [
-{"key": "A", "text": "Porque demuestra que los animales tienen una vida interior tan compleja como los humanos."},
-{"key": "B", "text": "Porque ilustra que la suma de las partes (la mantequilla) no reconstruye al organismo completo (el gato), y el significado se pierde."},
-{"key": "C", "text": "Porque sugiere que las disputas vecinales son la principal causa de los problemas existenciales."},
-{"key": "D", "text": "Porque prueba que los métodos empíricos como pesar en una balanza son siempre precisos y definitivos."}
-],
-"correctAnswerKey": "B",
-"difficulty": "3",
-"explanation": "La moraleja de la historia, como explica el autor, es '¿Dónde está el gato? Todas las partes puestas juntas no reconstruyen la criatura'. Esto se conecta con el 'credo humanístico fundamental es que «el hombre es más que la suma de sus partes»'. La investigación empírica, al dividir al individuo en componentes para estudiarlos, pierde a la persona y su capacidad de crear significado."
-},
-{
-"id": 42,
-"text": "[Tipo: Análisis] ¿Cómo desafía el concepto de 'Dasein' de Heidegger la visión cartesiana tradicional utilizada en la ciencia?",
-"options": [
-{"key": "A", "text": "Refuerza la idea de un sujeto que observa objetivamente un mundo externo separado."},
-{"key": "B", "text": "Propone que no existe un mundo objetivo, solo la percepción subjetiva de cada individuo."},
-{"key": "C", "text": "Se extiende por debajo de la escisión sujeto-objeto, considerando a la persona como una conciencia que participa en la construcción de su propia realidad."},
-{"key": "D", "text": "Afirma que el 'Dasein' es la parte del cerebro responsable de la percepción objetiva."}
-],
-"correctAnswerKey": "C",
-"difficulty": "3",
-"explanation": "El texto explica que 'Dasein' desafía la 'escisión entre sujeto y objeto'. La persona no es solo un sujeto que percibe, 'sino como una conciencia que participa en la construcción de la realidad'. El 'Da' (ahí) significa que la persona es un objeto en el mundo, pero al mismo tiempo 'constituye el mundo', aportando significado. Esto supera la dicotomía tradicional."
-},
-{
-"id": 43,
-"text": "[Tipo: Definición] ¿Cuál es el método de conocimiento alternativo al enfoque empírico, que el autor propone como adecuado para la psicoterapia existencial?",
-"options": [
-{"key": "A", "text": "El método experimental controlado en laboratorio."},
-{"key": "B", "text": "El método estadístico basado en grandes encuestas."},
-{"key": "C", "text": "El método fenomenológico, que busca ir directamente a los fenómenos y entrar en el mundo de experiencias del otro."},
-{"key": "D", "text": "El método histórico, que analiza los textos de antiguos filósofos."}
-],
-"correctAnswerKey": "C",
-"difficulty": "1",
-"explanation": "El texto pregunta '¿Cuál es la alternativa a un enfoque empírico?' y responde: 'El método adecuado... es el «fenomenológico», para ir directamente a los fenómenos mismos, para encontrarse con el otro sin instrumentos ni presuposiciones «normalizadas»'."
-},
-{
-"id": 44,
-"text": "[Tipo: Análisis] Al analizar el caso de Elisabeth von R. de Freud, ¿qué sugiere el autor que fueron las verdaderas intervenciones terapéuticas eficaces?",
-"options": [
-{"key": "A", "text": "Exclusivamente la técnica de liberación y desrepresión de pensamientos nocivos, como afirmó Freud."},
-{"key": "B", "text": "La correcta aplicación del diván y el mantenimiento de una estricta neutralidad analítica."},
-{"key": "C", "text": "Las 'maniobras off-the-record' y 'extras' de Freud, como su interés amistoso, su consuelo y su implicación activa en la vida de la paciente."},
-{"key": "D", "text": "El descubrimiento de un trauma sexual infantil, que es el único factor curativo en psicoanálisis."}
-],
-"correctAnswerKey": "C",
-"difficulty": "3",
-"explanation": "El autor detalla una larga lista de intervenciones de Freud que van más allá de su teoría formal: su 'interés amistoso', ayudarla financieramente, consolarla, e incluso conseguir una invitación a un baile para verla. Concluye: 'Los extras de Freud, no tengo dudas, constituían poderosas intervenciones; excluirlas de la teoría es exponerse al error'."
-},
-{
-"id": 45,
-"text": "[Tipo: Comprensión] ¿Por qué la terapia existencial se describe como 'una persona sin hogar' en el ámbito académico?",
-"options": [
-{"key": "A", "text": "Porque es una terapia diseñada específicamente para personas sin hogar."},
-{"key": "B", "text": "Porque carece de una escuela formal, una institución, una sociedad o una revista académica sólida."},
-{"key": "C", "text": "Porque sus principios son tan simples que no requieren estudio académico."},
-{"key": "D", "text": "Porque todos sus proponentes principales eran nómadas que viajaban constantemente."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El autor usa esta metáfora para describir la posición de la terapia existencial: 'No tiene una escuela formal, ni institución alguna... No tiene una sociedad formal, ni una sólida revista'. Esto explica su falta de un 'lugar propio' en la academia."
-},
-{
-"id": 46,
-"text": "[Tipo: Comprensión] ¿Qué actitud debe tener el terapeuta maduro hacia la incertidumbre, según el párrafo final del texto?",
-"options": [
-{"key": "A", "text": "Debe eliminar toda incertidumbre proporcionando respuestas definitivas al paciente."},
-{"key": "B", "text": "Debe ignorar la incertidumbre y centrarse solo en los aspectos predecibles de la terapia."},
-{"key": "C", "text": "Debe ser capaz de tolerar esta incertidumbre fundamental, ya que la existencia es inexorablemente libre e incierta."},
-{"key": "D", "text": "Debe transferir la responsabilidad de manejar la incertidumbre completamente al paciente."}
-],
-"correctAnswerKey": "C",
-"difficulty": "2",
-"explanation": "El último párrafo concluye que 'La existencia es inexorablemente libre y, de este modo, incierta... El terapeuta maduro debe, en el enfoque teórico existencial, como en cualquier otro, ser capaz de tolerar esta incertidumbre fundamental'."
-},
-{
-"id": 47,
-"text": "[Tipo: Comprensión] ¿Cuál es el origen de la escuela formal de la filosofía existencialista, según la anécdota contada en el texto?",
-"options": [
-{"key": "A", "text": "Un discurso de Sigmund Freud en Viena en 1892."},
-{"key": "B", "text": "Una tarde de reflexión de un joven Søren Kierkegaard en un café en 1834."},
-{"key": "C", "text": "La publicación de 'Ser y Tiempo' de Martin Heidegger tras la Primera Guerra Mundial."},
-{"key": "D", "text": "Un encuentro entre Albert Camus y Jean-Paul Sartre en París."}
-],
-"correctAnswerKey": "B",
-"difficulty": "1",
-"explanation": "El texto sitúa el comienzo de la escuela formal 'en una tarde de domingo, en 1834, cuando un joven danés se sentó en un café y fumándose un puro se puso a reflexionar'. Ese joven danés era Søren Kierkegaard."
-},
-{
-"id": 48,
-"text": "[Tipo: Análisis] El autor compara la relación entre la terapia existencial y la filosofía existencial con la que existe entre la farmacoterapia y la bioquímica. ¿Qué implica esta analogía?",
-"options": [
-{"key": "A", "text": "Que la terapia existencial es simplemente una aplicación directa y sin cambios de los textos filosóficos."},
-{"key": "B", "text": "Que la terapia es el campo práctico y clínico, mientras que la filosofía es la investigación fundamental o de 'laboratorio' que la inspira."},
-{"key": "C", "text": "Que un terapeuta existencial debe tener un doctorado en filosofía para poder practicar."},
-{"key": "D", "text": "Que ambas son ciencias exactas con resultados predecibles."}
-],
-"correctAnswerKey": "B",
-"difficulty": "3",
-"explanation": "La analogía distingue entre la práctica clínica aplicada (farmacoterapia/terapia existencial) y la ciencia básica o investigación fundamental que la sustenta (bioquímica/filosofía existencial). La terapia se inspira y se apoya en la filosofía, pero es un campo distinto con objetivos pragmáticos y clínicos."
-},
-{
-"id": 49,
-"text": "[Tipo: Comprensión] ¿Por qué, según el autor, muchos pensadores existenciales como Sartre y Camus prefirieron la exposición literaria a la argumentación filosófica formal?",
-"options": [
-{"key": "A", "text": "Porque la literatura era más rentable económicamente que la filosofía académica."},
-{"key": "B", "text": "Porque la tarea del filósofo y del terapeuta es desreprimir y poner al individuo en contacto con algo que ya conoce, lo cual no requiere una explicación formal."},
-{"key": "C", "text": "Porque no tenían la formación académica necesaria para escribir filosofía formal."},
-{"key": "D", "text": "Porque querían evitar la censura de las academias filosóficas de la época."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El autor argumenta que los conceptos existenciales 'necesitan ser sacados a la luz'. Lo que se requiere no es una explicación formal, sino 'desreprimir, volver a poner al corriente al individuo de algo que ha conocido desde el primer momento'. Concluye que esta es 'precisamente la razón' por la que prefirieron la literatura, que puede evocar esta reconexión de manera más efectiva."
-},
-{
-"id": 50,
-"text": "[Tipo: Análisis] El autor menciona que el 'verdadero toque' o los 'extras' del terapeuta existen fuera de la teoría formal. ¿Cuál es el propósito de su libro en relación con estos 'extras'?",
-"options": [
-{"key": "A", "text": "Enseñar a los terapeutas a evitar por completo estos 'extras' y apegarse a la técnica formal."},
-{"key": "B", "text": "Argumentar que estos 'extras' son irrelevantes y que solo la teoría importa."},
-{"key": "C", "text": "Proporcionar un marco teórico, el existencial, que suministre un lugar y una estructura para muchos de estos 'extras' de la terapia."},
-{"key": "D", "text": "Demostrar que estos 'extras' son en realidad la única cosa que funciona en terapia."}
-],
-"correctAnswerKey": "C",
-"difficulty": "3",
-"explanation": "Después de describir los 'extras' como intervenciones poderosas pero no registradas, el autor declara su intención: 'proponer y dilucidar una aproximación a la psicoterapia... que suministrará un marco para muchos de los extras de la terapia'. El enfoque existencial busca dar un lugar explícito a estos elementos a menudo implícitos."
-},
-{
-"id": 51,
-"text": "[Tipo: Comprensión] ¿Qué desafío para la investigación empírica se deriva de la idea de que el significado 'es creado por una persona que está supraordenada a todas sus partes'?",
-"options": [
-{"key": "A", "text": "Que el significado es fácil de medir con cuestionarios estandarizados."},
-{"key": "B", "text": "Que el significado no puede obtenerse del estudio de las partes componentes del individuo, ya que no es causado por ellas."},
-{"key": "C", "text": "Que el significado solo puede ser estudiado en grupos grandes, no en individuos."},
-{"key": "D", "text": "Que el significado es un constructo puramente biológico y puede medirse a nivel neuronal."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El texto afirma que 'El significado nunca puede obtenerse a partir del estudio de las partes componentes, porque el significado nunca es causado: es creado por una persona'. Esto representa un problema fundamental para la investigación empírica que opera dividiendo al sujeto en partes para su estudio."
-},
-{
-"id": 52,
-"text": "[Tipo: Comprensión] ¿Cuál es la actitud del autor hacia la utilidad de su propio paradigma existencial?",
-"options": [
-{"key": "A", "text": "Es el único paradigma verdadero, capaz de explicar toda la conducta humana."},
-{"key": "B", "text": "Es un paradigma útil para algunos pacientes y algunos terapeutas, pero no es 'el' paradigma exclusivo."},
-{"key": "C", "text": "Es un paradigma obsoleto que ya no tiene utilidad en la clínica moderna."},
-{"key": "D", "text": "Es un paradigma puramente teórico sin ninguna aplicación práctica en la terapia."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El autor es explícito en este punto: 'Pero éste es un paradigma, no el paradigma, útil para algunos pacientes, no para todos los pacientes, que puede ser empleado por algunos terapeutas, no por todos los terapeutas'. Rechaza la idea de una hegemonía exclusiva."
-},
-{
-"id": 53,
-"text": "[Tipo: Análisis] ¿Qué tienen en común las cuatro preocupaciones supremas que las convierte en la fuente del conflicto dinámico existencial?",
-"options": [
-{"key": "A", "text": "Todas son problemas que pueden resolverse definitivamente con suficiente esfuerzo y terapia."},
-{"key": "B", "text": "Cada una representa una tensión entre una conciencia de un hecho ineludible de la existencia y un deseo humano que se le opone."},
-{"key": "C", "text": "Todas son conceptos introducidos originalmente por Sigmund Freud en sus primeros escritos."},
-{"key": "D", "text": "Todas se originan en traumas infantiles específicos y pueden rastrearse a relaciones tempranas fallidas."}
-],
-"correctAnswerKey": "B",
-"difficulty": "3",
-"explanation": "El texto estructura cada preocupación como un conflicto central: la muerte (conciencia de finitud vs. deseo de existir), la libertad (conciencia de falta de fundamento vs. deseo de estructura), el aislamiento (conciencia de separación vs. deseo de contacto) y el sinsentido (conciencia de un universo sin significado inherente vs. deseo de significado). La opción B captura esta estructura de tensión común a todas ellas."
-},
-{
-"id": 54,
-"text": "[Tipo: Comprensión] Al describir la historia de la psicoterapia existencial, el autor destaca la decisión de Kierkegaard de 'hacer algo más difícil'. ¿A qué se refería con esto?",
-"options": [
-{"key": "A", "text": "A la tarea de ganar más dinero que sus contemporáneos."},
-{"key": "B", "text": "A la tarea de inventar una nueva tecnología como el ferrocarril o el telégrafo."},
-{"key": "C", "text": "A la tarea de enfrentar las dificultades de la propia existencia, en lugar de facilitar la vida material."},
-{"key": "D", "text": "A la tarea de escribir libros más largos y complejos que los de cualquier otro filósofo."}
-],
-"correctAnswerKey": "C",
-"difficulty": "2",
-"explanation": "Kierkegaard razonó que mientras todos se esforzaban por hacer la vida 'más fácil', él, con 'el mismo entusiasmo humanitario', debía 'comprometerte a hacer algo más difícil'. El texto aclara que estas dificultades eran las de 'su propia situación en la existencia, su propio terror, sus elecciones, sus posibilidades y limitaciones'."
-},
-{
-"id": 55,
-"text": "[Tipo: Comprensión] ¿Cuál es el principal método por el cual una persona 'descubre la naturaleza de estos datos' de la existencia, según el autor?",
-"options": [
-{"key": "A", "text": "A través de la lectura de textos filosóficos complejos."},
-{"key": "B", "text": "A través de la reflexión personal profunda en condiciones de soledad, silencio y tiempo."},
-{"key": "C", "text": "A través de la interpretación de los sueños con un terapeuta entrenado."},
-{"key": "D", "text": "A través de la participación en estudios empíricos y cuestionarios."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El autor es muy claro sobre el método: 'El método es la reflexión personal profunda. Las condiciones son simples: soledad, silencio, tiempo y liberación de las distracciones de cada día'. Describe este proceso como 'poner entre paréntesis' el mundo cotidiano para reflexionar sobre la propia situación en el mundo."
-},
-{
-"id": 56,
-"text": "[Tipo: Análisis] El texto afirma que 'el enfoque existencial rebasa de una manera original las categorías comunes'. ¿Qué significa esto en la práctica clínica?",
-"options": [
-{"key": "A", "text": "Que el terapeuta existencial utiliza un léxico completamente diferente y ajeno a la psicología, con términos como 'elección', 'libertad' y 'mortalidad'."},
-{"key": "B", "text": "Que el enfoque ignora por completo las observaciones clínicas y se basa solo en la filosofía."},
-{"key": "C", "text": "Que el enfoque utiliza las mismas categorías diagnósticas que el psicoanálisis, pero les da un nombre diferente."},
-{"key": "D", "text": "Que el enfoque es tan complejo que solo los filósofos profesionales pueden entenderlo."}
-],
-"correctAnswerKey": "A",
-"difficulty": "3",
-"explanation": "El autor destaca que el vocabulario es diferente y que el clínico encontrará el lenguaje 'psicológicamente ajeno'. Pregunta retóricamente: '¿Dónde está el léxico psicoterapéutico que contiene términos tales como «elección», «responsabilidad», «libertad», «aislamiento existencial», «mortalidad»...?'. Esto ilustra cómo rebasa las categorías habituales."
-},
-{
-"id": 57,
-"text": "[Tipo: Definición] Según el texto, ¿qué es 'poner entre paréntesis' en el contexto del método fenomenológico?",
-"options": [
-{"key": "A", "text": "Ignorar lo que dice el paciente y centrarse en el lenguaje corporal."},
-{"key": "B", "text": "Poner en suspenso la perspectiva del propio mundo para poder entrar en el mundo de experiencias del otro."},
-{"key": "C", "text": "Escribir entre paréntesis las interpretaciones del terapeuta en las notas de la sesión."},
-{"key": "D", "text": "Pedirle al paciente que se detenga y reflexione sobre lo que acaba de decir."}
-],
-"correctAnswerKey": "B",
-"difficulty": "1",
-"explanation": "Al describir el método fenomenológico, el texto afirma que 'Hasta donde sea posible, uno debe «poner entre paréntesis» la perspectiva del propio mundo y entrar en el mundo de experiencias del otro'. Este acto de suspensión de los propios prejuicios y marco de referencia es central en la fenomenología."
-},
-{
-"id": 58,
-"text": "[Tipo: Comprensión] ¿Cuál es la posición de la terapia existencial frente al sufrimiento humano, según el texto?",
-"options": [
-{"key": "A", "text": "El sufrimiento es siempre un signo de patología y debe ser eliminado por completo."},
-{"key": "B", "text": "El sufrimiento es una parte universal e ineludible de la condición humana, y la patología reside en cómo se afronta."},
-{"key": "C", "text": "El sufrimiento es una ilusión que puede ser superada a través del pensamiento positivo."},
-{"key": "D", "text": "El sufrimiento solo afecta a una pequeña porción de la población con predisposiciones específicas."}
-],
-"correctAnswerKey": "B",
-"difficulty": "2",
-"explanation": "El texto utiliza la cita de André Malraux ('la gente es mucho más infeliz de lo que uno piensa') y la analogía con la enfermedad para argumentar que el estrés existencial es ubicuo. 'La psicopatología no depende meramente de la presencia o la ausencia del estrés, sino de la interacción entre el estrés ubicuo y los mecanismos de defensa del individuo'."
-},
-{
-"id": 59,
-"text": "[Tipo: Análisis] El autor critica a los terapeutas que, al abordar un tema existencial, pronto dicen tácitamente: '¡Vayamos hacia algo neurótico, algo en lo que podamos intervenir!'. ¿Qué revela esta actitud?",
-"options": [
-{"key": "A", "text": "Una preferencia por problemas concretos que parecen 'solucionables' en lugar de enfrentar las condiciones universales e inalterables de la vida."},
-{"key": "B", "text": "Una falta de entrenamiento en técnicas de intervención para problemas existenciales."},
-{"key": "C", "text": "La creencia de que los problemas neuróticos son más importantes y dolorosos que los existenciales."},
-{"key": "D", "text": "El deseo de prolongar la terapia al centrarse en problemas más complejos y difíciles de resolver."}
-],
-"correctAnswerKey": "A",
-"difficulty": "3",
-"explanation": "Esta crítica surge porque los terapeutas pueden ver las preocupaciones existenciales como 'experiencias universales' y, por lo tanto, no como algo 'constructivo' de explorar. El impulso de ir hacia 'algo neurótico' en lo que se puede 'intervenir' refleja un deseo de actuar sobre un problema que parece tener una solución técnica, en lugar de confrontar una verdad fundamental de la existencia que no puede ser 'arreglada'."
-},
-{
-"id": 60,
-"text": "[Tipo: Comprensión] ¿Cuál es la principal tarea del clínico según la perspectiva existencial?",
-"options": [
-{"key": "A", "text": "Proporcionar al paciente un conjunto de reglas y valores predefinidos para vivir."},
-{"key": "B", "text": "Ayudar al paciente a adaptarse a las expectativas sociales y culturales."},
-{"key": "C", "text": "Proteger al paciente de las verdades dolorosas de la existencia."},
-{"key": "D", "text": "Alentar al individuo a mirar en su interior y a atender a su situación existencial."}
-],
-"correctAnswerKey": "D",
-"difficulty": "2",
-"explanation": "Hacia el final de la sección sobre filosofía, el autor concluye: 'Por encima de todo, el filósofo y el terapeuta deben alentar al individuo a mirar en su interior y a atender a su situación existencial'. Esto contrasta directamente con las otras opciones, que implican imponer una estructura externa (A, B) o evitar la confrontación (C)."
-}
+  {
+    "id": 1,
+    "text": "[Tipo: Definición] ¿Cuál es la ciencia que estudia los efectos de los fármacos sobre el comportamiento, las emociones y la cognición, integrando farmacología y psicología clínica?",
+    "options": [
+      { "key": "A", "text": "Neuroquímica" },
+      { "key": "B", "text": "Farmacodinámica" },
+      { "key": "C", "text": "Psicofarmacología" },
+      { "key": "D", "text": "Psicobiología sistémica" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "La psicofarmacología es la disciplina científica que estudia el efecto de los fármacos con especial atención a las manifestaciones cognitivas, emocionales y conductuales."
+  },
+  {
+    "id": 2,
+    "text": "[Tipo: Comprensión] ¿En qué década comenzó la psicofarmacología moderna con la introducción de medicamentos como los antipsicóticos y antidepresivos?",
+    "options": [
+      { "key": "A", "text": "1970" },
+      { "key": "B", "text": "1950" },
+      { "key": "C", "text": "1990" },
+      { "key": "D", "text": "1930" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "1",
+    "explanation": "La década de 1950 se considera la 'época de oro' o el inicio de la psicofarmacología moderna gracias al descubrimiento accidental de la clorpromazina y los primeros antidepresivos."
+  },
+  {
+    "id": 3,
+    "text": "[Tipo: Comprensión] Según el Modelo Bio-Psico-Social, los trastornos mentales son el resultado de la interacción entre factores biológicos, psicológicos y:",
+    "options": [
+      { "key": "A", "text": "Farmacológicos" },
+      { "key": "B", "text": "Sociales" },
+      { "key": "C", "text": "Neurológicos" },
+      { "key": "D", "text": "Genéticos" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "1",
+    "explanation": "El modelo Bio-Psico-Social propone que la salud y la enfermedad son el resultado de la compleja interacción de estos tres pilares: biológico, psicológico y el entorno social."
+  },
+  {
+    "id": 4,
+    "text": "[Tipo: Análisis] El modelo que sugiere que las personas tienen diferentes grados de vulnerabilidad (diátesis) a desarrollar trastornos mentales, y que factores estresantes los desencadenan, es el:",
+    "options": [
+      { "key": "A", "text": "Modelo Psicoanalítico" },
+      { "key": "B", "text": "Modelo Biomédico" },
+      { "key": "C", "text": "Modelo Diátesis-Estrés" },
+      { "key": "D", "text": "Modelo Cognitivo-Conductual" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "El modelo Diátesis-Estrés explica que la predisposición genética (diátesis) no es suficiente por sí sola; requiere de un disparador ambiental (estrés) para que el trastorno se manifieste."
+  },
+  {
+    "id": 5,
+    "text": "[Tipo: Análisis] ¿Qué tipo de tratamiento ha demostrado ser efectivo en muchos casos de trastornos mentales graves, según las fuentes?",
+    "options": [
+      { "key": "A", "text": "Psicoterapia exclusiva" },
+      { "key": "B", "text": "Farmacoterapia intensiva" },
+      { "key": "C", "text": "Tratamientos combinados (psicofarmacológicos y psicoterapéuticos)" },
+      { "key": "D", "text": "Intervención social comunitaria únicamente" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La evidencia clínica actual sostiene que la combinación de medicación (para estabilizar síntomas biológicos) y terapia (para el manejo de herramientas psicológicas) ofrece mejores resultados a largo plazo."
+  },
+  {
+    "id": 6,
+    "text": "[Tipo: Definición] ¿Cuál es el primer principio fundamental de la farmacoterapia?",
+    "options": [
+      { "key": "A", "text": "Monitoreo constante" },
+      { "key": "B", "text": "Elegir el fármaco más barato" },
+      { "key": "C", "text": "Valoración diagnóstica precisa" },
+      { "key": "D", "text": "Uso de dosis máximas desde el inicio" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "Sin un diagnóstico correcto, la elección del fármaco carecería de base científica. La valoración precisa es el paso esencial antes de prescribir cualquier fármaco."
+  },
+  {
+    "id": 7,
+    "text": "[Tipo: Definición] Al informar a los pacientes sobre la medicación, ¿qué concepto describe el tiempo que tarda el fármaco en empezar a mostrar su efecto terapéutico?",
+    "options": [
+      { "key": "A", "text": "Vida media" },
+      { "key": "B", "text": "Periodo de abstinencia" },
+      { "key": "C", "text": "Latencia terapéutica" },
+      { "key": "D", "text": "Biodisponibilidad" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "La latencia terapéutica es el periodo que transcurre desde la administración del fármaco hasta que se observa una mejoría clínica notable, muy común en antidepresivos."
+  },
+  {
+    "id": 8,
+    "text": "[Tipo: Comprensión] En el marco de la evaluación de fármacos STEPS, ¿a qué componente corresponde la necesidad de que los efectos adversos no graves sean soportables?",
+    "options": [
+      { "key": "A", "text": "Seguridad" },
+      { "key": "B", "text": "Eficacia" },
+      { "key": "C", "text": "Tolerabilidad" },
+      { "key": "D", "text": "Simplicidad" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "La tolerabilidad se refiere a qué tan bien soporta el paciente los efectos secundarios leves/moderados, lo que influye directamente en si continuará o abandonará el tratamiento."
+  },
+  {
+    "id": 9,
+    "text": "[Tipo: Definición] ¿Cuál es el rol del psicólogo que implica informar al paciente sobre los beneficios, riesgos y posibles efectos secundarios de la medicación?",
+    "options": [
+      { "key": "A", "text": "Coordinador del Tratamiento" },
+      { "key": "B", "text": "Educador" },
+      { "key": "C", "text": "Monitor del Progreso" },
+      { "key": "D", "text": "Prescriptor secundario" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "1",
+    "explanation": "Como educador, el psicólogo ayuda a la psicoeducación del paciente, mejorando la adherencia al explicarle qué esperar del tratamiento farmacológico."
+  },
+  {
+    "id": 10,
+    "text": "[Tipo: Definición] Un psicofármaco se define como una sustancia que actúa terapéuticamente sobre el comportamiento, el funcionamiento de la mente y el:",
+    "options": [
+      { "key": "A", "text": "Locus coeruleus" },
+      { "key": "B", "text": "Sistema límbico" },
+      { "key": "C", "text": "Estado de ánimo" },
+      { "key": "D", "text": "Sistema nervioso periférico" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "La definición clínica de psicofármaco incluye su acción sobre las funciones cognitivas, la conducta y la regulación de la afectividad o estado de ánimo."
+  },
+  {
+    "id": 11,
+    "text": "[Tipo: Comprensión] ¿Qué tipo de sustancias químicas actúan sobre el estado de ánimo pero no se consideran psicofármacos porque su objetivo terapéutico primario no es el funcionamiento mental?",
+    "options": [
+      { "key": "A", "text": "Benzodiacepinas" },
+      { "key": "B", "text": "Antidepresivos" },
+      { "key": "C", "text": "Fármacos que usan los neurólogos (ej. para el Parkinson)" },
+      { "key": "D", "text": "Neurolépticos" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Aunque fármacos para el Parkinson afectan el ánimo, su objetivo primario es el control motor, por lo que no se clasifican estrictamente como psicofármacos en el contexto psiquiátrico tradicional."
+  },
+  {
+    "id": 12,
+    "text": "[Tipo: Definición] ¿Cuál es la finalidad de la psicopatología como ciencia nomotética?",
+    "options": [
+      { "key": "A", "text": "Aplicación clínica al sujeto individual" },
+      { "key": "B", "text": "Estudio del caso particular (idiográfico)" },
+      { "key": "C", "text": "Establecer leyes universales que expliquen las alteraciones mentales" },
+      { "key": "D", "text": "Tratamiento directo de la sintomatología" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "2",
+    "explanation": "Lo 'nomotético' se refiere a la búsqueda de leyes generales o principios universales aplicables a una población, a diferencia de lo 'idiográfico' que se centra en el individuo."
+  },
+  {
+    "id": 13,
+    "text": "[Tipo: Definición] ¿Qué concepto de la evaluación STEPS se refiere a que el fármaco no debe causar efectos adversos graves o mortales?",
+    "options": [
+      { "key": "A", "text": "Tolerabilidad" },
+      { "key": "B", "text": "Precio" },
+      { "key": "C", "text": "Seguridad" },
+      { "key": "D", "text": "Eficacia" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "La seguridad evalúa el riesgo de daño grave (toxicidad orgánica, riesgo de muerte o efectos teratogénicos) frente al beneficio terapéutico."
+  },
+  {
+    "id": 14,
+    "text": "[Tipo: Comprensión] En el Modelo Diátesis-Estrés, ¿qué término se refiere a los factores desencadenantes del inicio o agravamiento de los trastornos mentales?",
+    "options": [
+      { "key": "A", "text": "Diátesis" },
+      { "key": "B", "text": "Vulnerabilidad" },
+      { "key": "C", "text": "Estrés" },
+      { "key": "D", "text": "Genética" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "El estrés representa el conjunto de experiencias ambientales o psicológicas negativas que actúan sobre la vulnerabilidad previa del sujeto."
+  },
+  {
+    "id": 15,
+    "text": "[Tipo: Análisis] Cuando un fármaco que fue eficaz en episodios anteriores es considerado como primera opción en una recurrencia, se aplica el principio de:",
+    "options": [
+      { "key": "A", "text": "Monitoreo constante" },
+      { "key": "B", "text": "Estrategias aplicadas previamente" },
+      { "key": "C", "text": "Latencia terapéutica" },
+      { "key": "D", "text": "Economía de recursos" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "La historia farmacológica del paciente es un predictor clave del éxito; si un fármaco funcionó bien antes, es probable que el sistema neuroquímico del paciente responda igual nuevamente."
+  },
+  {
+    "id": 16,
+    "text": "[Tipo: Comprensión] ¿Qué grupo de trastornos mentales es mencionado como altamente prevalente y afecta particularmente a las mujeres?",
+    "options": [
+      { "key": "A", "text": "Trastorno Bipolar" },
+      { "key": "B", "text": "Psicosis" },
+      { "key": "C", "text": "Trastornos de Ansiedad" },
+      { "key": "D", "text": "Trastornos de la personalidad antisocial" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "Las estadísticas globales indican una prevalencia significativamente mayor de trastornos de ansiedad y depresión en la población femenina."
+  },
+  {
+    "id": 17,
+    "text": "[Tipo: Comprensión] ¿Qué tipo de trastorno de ansiedad suele comenzar en la adolescencia o infancia tardía y tiende a ser crónico?",
+    "options": [
+      { "key": "A", "text": "Trastorno de Pánico" },
+      { "key": "B", "text": "Fobia Social (TAS)" },
+      { "key": "C", "text": "Trastorno de Ansiedad Generalizada (TAG)" },
+      { "key": "D", "text": "Estrés postraumático" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "La Fobia Social o Trastorno de Ansiedad Social (TAS) tiene un inicio temprano característico ligado al desarrollo de la autoconciencia social en la adolescencia."
+  },
+  {
+    "id": 18,
+    "text": "[Tipo: Análisis] En la fase aguda del tratamiento antidepresivo, ¿cuál es el porcentaje de mejoría sintomática que se considera una 'Respuesta'?",
+    "options": [
+      { "key": "A", "text": "Al menos el 25%" },
+      { "key": "B", "text": "Al menos el 50%" },
+      { "key": "C", "text": "Ausencia total de síntomas" },
+      { "key": "D", "text": "Estabilización del sueño únicamente" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "Se define técnicamente 'Respuesta' como una reducción de al menos el 50% en las escalas de calificación de síntomas (como la escala de Hamilton)."
+  },
+  {
+    "id": 19,
+    "text": "[Tipo: Comprensión] ¿Cuál de los siguientes es un rol clave del psicólogo en el tratamiento combinado?",
+    "options": [
+      { "key": "A", "text": "Prescribir medicación en casos de urgencia" },
+      { "key": "B", "text": "Monitorizar los posibles efectos adversos del tratamiento" },
+      { "key": "C", "text": "Ajustar la dosis del fármaco según la respuesta" },
+      { "key": "D", "text": "Realizar análisis de sangre para medir niveles del fármaco" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "2",
+    "explanation": "El psicólogo tiene más contacto frecuente con el paciente y puede detectar cambios conductuales o físicos que indiquen efectos secundarios, informando al médico tratante."
+  },
+  {
+    "id": 20,
+    "text": "[Tipo: Comprensión] ¿Qué se busca al intentar que el tratamiento sea 'Sencillo' (Principio STEPS)?",
+    "options": [
+      { "key": "A", "text": "Que sea económicamente accesible" },
+      { "key": "B", "text": "Que la dosis se ajuste constantemente" },
+      { "key": "C", "text": "Simplicidad en la pauta de administración (ej., una vez al día)" },
+      { "key": "D", "text": "Que el paciente no requiera terapia adicional" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "La simplicidad (frecuencia de tomas y facilidad de administración) es uno de los predictores más fuertes de la adherencia al tratamiento."
+  },
+  {
+    "id": 21,
+    "text": "[Tipo: Definición] ¿Qué rama de la farmacología estudia los procesos y factores que determinan la cantidad de fármaco presente en el sitio de acción (biofase)?",
+    "options": [
+      { "key": "A", "text": "Farmacodinamia" },
+      { "key": "B", "text": "Farmacocinética" },
+      { "key": "C", "text": "Farmacología Clínica" },
+      { "key": "D", "text": "Farmacogenética" }
+    ],
+    "correctAnswerKey": "B",
+    "difficulty": "1",
+    "explanation": "La farmacocinética estudia lo que 'el cuerpo le hace al fármaco' (ADME), determinando su concentración en el tiempo."
+  },
+  {
+    "id": 22,
+    "text": "[Tipo: Definición] ¿Cuáles son los cuatro procesos fundamentales de la Farmacocinética (ADME)?",
+    "options": [
+      { "key": "A", "text": "Acción, Dosis, Metabolismo, Eliminación" },
+      { "key": "B", "text": "Activación, Distribución, Migración, Excreción" },
+      { "key": "C", "text": "Absorción, Distribución, Metabolismo, Excreción" },
+      { "key": "D", "text": "Absorción, Disolución, Modulación, Efecto" }
+    ],
+    "correctAnswerKey": "C",
+    "difficulty": "1",
+    "explanation": "ADME es el acrónimo estándar: Absorción (entrada), Distribución (reparto), Metabolismo (transformación) y Excreción (salida)."
+  }
 ]
