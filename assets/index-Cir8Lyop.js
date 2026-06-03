@@ -2370,6 +2370,36 @@
         }
     }
   `;Ue([L({type:Boolean,reflect:!0})],ye.prototype,"isVisible",2);Ue([L({type:Number})],ye.prototype,"initialVolume",2);Ue([L({type:Boolean})],ye.prototype,"initiallyMuted",2);Ue([R()],ye.prototype,"_currentVolume",2);Ue([R()],ye.prototype,"_isMuted",2);ye=Ue([V("options-menu-popup")],ye);var Ho=Object.defineProperty,Wo=Object.getOwnPropertyDescriptor,Aa=(h,e,a,o)=>{for(var i=o>1?void 0:o?Wo(e,a):e,t=h.length-1,n;t>=0;t--)(n=h[t])&&(i=(o?n(e,a,i):n(i))||i);return o&&i&&Ho(e,a,i),i};const jo="sweep-in-tl-to-br",Ko="sweep-out-towards-br";let mt=class extends B{constructor(){super(...arguments),this.visible=!1}async playIn(){return console.log("[DiagonalWipe] playIn() INICIADO."),new Promise(h=>{this.classList.remove("animate-out"),this.style.clipPath="polygon(0% 0%, 0% 0%, 0% 0%, 0% 0%)",this.visible=!0,this.offsetWidth;const e=a=>{a.animationName===jo?(this.removeEventListener("animationend",e),this.style.clipPath="polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)",console.log("[DiagonalWipe] playIn() FINALIZADO - Promesa resuelta."),h()):console.log(`[DiagonalWipe] playIn() animationend para OTRA animación: ${a.animationName}`)};this.addEventListener("animationend",e),this.classList.add("animate-in"),console.log('[DiagonalWipe] Clase "animate-in" añadida.')})}async playOut(){return console.log("[DiagonalWipe] playOut() INICIADO."),new Promise(h=>{if(!this.visible){console.log("[DiagonalWipe] playOut() llamado pero no visible, resolviendo inmediatamente."),h();return}this.classList.remove("animate-in"),this.style.clipPath="polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)",this.offsetWidth;const e=a=>{a.animationName===Ko?(this.removeEventListener("animationend",e),this.reset(),console.log("[DiagonalWipe] playOut() FINALIZADO - Promesa resuelta."),h()):console.log(`[DiagonalWipe] playOut() animationend para OTRA animación: ${a.animationName}`)};this.addEventListener("animationend",e),this.classList.add("animate-out"),console.log('[DiagonalWipe] Clase "animate-out" añadida.')})}reset(){console.log("[DiagonalWipe] reset() llamado."),this.classList.remove("animate-in","animate-out"),this.style.clipPath="polygon(0% 0%, 0% 0%, 0% 0%, 0% 0%)",this.visible=!1}render(){return $``}};mt.styles=Q`
+
+  /* --- INCLUIR KEYFRAMES AQUÍ ADENTRO --- */
+    @keyframes sweep-in-tl-to-br {
+        0% { clip-path: polygon(0% 0%, 0% 0%, 0% 0%, 0% 0%); }
+        10% { clip-path: polygon(0% 0%, 20% 0%, 0% 20%); }
+        20% { clip-path: polygon(0% 0%, 40% 0%, 0% 40%); }
+        30% { clip-path: polygon(0% 0%, 60% 0%, 0% 60%); }
+        40% { clip-path: polygon(0% 0%, 80% 0%, 0% 80%); }
+        50% { clip-path: polygon(0% 0%, 100% 0%, 0% 100%); }
+        60% { clip-path: polygon(0% 0%, 100% 0%, 100% 20%, 20% 100%, 0% 100%); }
+        70% { clip-path: polygon(0% 0%, 100% 0%, 100% 40%, 40% 100%, 0% 100%); }
+        80% { clip-path: polygon(0% 0%, 100% 0%, 100% 60%, 60% 100%, 0% 100%); }
+        90% { clip-path: polygon(0% 0%, 100% 0%, 100% 80%, 80% 100%, 0% 100%); }
+        100% { clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%); }
+    }
+
+    @keyframes sweep-out-towards-br {
+        0% { clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%); }
+        10% { clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 20%); }
+        20% { clip-path: polygon(40% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 40%); }
+        30% { clip-path: polygon(60% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 60%); }
+        40% { clip-path: polygon(80% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 80%); }
+        50% { clip-path: polygon(100% 0%, 100% 100%, 0% 100%); }
+        60% { clip-path: polygon(100% 20%, 100% 100%, 20% 100%); }
+        70% { clip-path: polygon(100% 40%, 100% 100%, 40% 100%); }
+        80% { clip-path: polygon(100% 60%, 100% 100%, 60% 100%); }
+        90% { clip-path: polygon(100% 80%, 100% 100%, 80% 100%); }
+        100% { clip-path: polygon(100% 100%, 100% 100%, 100% 100%, 100% 100%); }
+    }
+        
     :host {
       display: block; 
       position: fixed;
